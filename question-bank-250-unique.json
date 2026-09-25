@@ -1,0 +1,4752 @@
+[
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "The word 'Liturgy' is derived from the Greek word 'Leitourgia', which in the syllabus means:",
+    "options": [
+      "Prayer plus song",
+      "Priest plus sacrifice",
+      "Church plus service",
+      "People plus work"
+    ],
+    "answer": 3,
+    "answer_text": "People plus work",
+    "explanation": "Liturgy comes from the Greek 'Leitourgia', meaning 'people plus work'. This emphasizes participation by the worshipping people rather than worship being monopolized by the clergy.",
+    "syllabus_page": 65,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-001",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "Which of the following is NOT listed as one of the four major elements of liturgy?",
+    "options": [
+      "Preaching",
+      "Ritual",
+      "Order",
+      "Ceremony"
+    ],
+    "answer": 0,
+    "answer_text": "Preaching",
+    "explanation": "The four major elements given are Order, Ritual, Ceremony and Liturgical Silence. Preaching is important in worship, but it is not listed among these four elements.",
+    "syllabus_page": 65,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-002",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "In liturgy, 'Order' refers mainly to:",
+    "options": [
+      "The physical movements made during worship",
+      "The structural framework or outline of the service",
+      "The prescribed words that are spoken or sung",
+      "The period of silence before the sermon"
+    ],
+    "answer": 1,
+    "answer_text": "The structural framework or outline of the service",
+    "explanation": "Order is the structural framework or programme followed in a service. It gives the service logical movement and progression, while still allowing reasonable flexibility.",
+    "syllabus_page": 65,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-003",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "What are 'rubrics' in a liturgical order?",
+    "options": [
+      "The prayers said by the congregation",
+      "Hymns sung only by the choir",
+      "Instructions that guide the liturgist on what should be done",
+      "The colours used in the church year"
+    ],
+    "answer": 2,
+    "answer_text": "Instructions that guide the liturgist on what should be done",
+    "explanation": "Rubrics are instructions, often printed in italics, bold type or brackets. They are not meant to be read aloud; they tell the liturgist when people should stand, sit, kneel, or perform other actions.",
+    "syllabus_page": 66,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-004",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "Which statement best describes 'ceremony' in liturgy?",
+    "options": [
+      "It is the silence observed after worship",
+      "It is the fixed wording of a prayer",
+      "It is the theological meaning of a sermon",
+      "It is the physical action necessary for public worship"
+    ],
+    "answer": 3,
+    "answer_text": "It is the physical action necessary for public worship",
+    "explanation": "Ceremony refers to physical actions in worship, such as standing, sitting, kneeling, processions and other bodily actions connected with the service.",
+    "syllabus_page": 66,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-005",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "According to the syllabus, one important purpose of liturgical silence is to:",
+    "options": [
+      "Allow worshippers to listen to what God has to say",
+      "Give the choir time to prepare",
+      "Make the service shorter",
+      "Replace the reading of Scripture"
+    ],
+    "answer": 0,
+    "answer_text": "Allow worshippers to listen to what God has to say",
+    "explanation": "Liturgical silence is treated as a positive act of worship. After speaking to God in prayer and praise, silence creates space for worshippers to listen and attend to God.",
+    "syllabus_page": 67,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-006",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "Before its specifically Christian use, the word 'liturgy' was originally applied to:",
+    "options": [
+      "Private prayer",
+      "Any public duty",
+      "Only priestly sacrifice",
+      "The singing of Psalms"
+    ],
+    "answer": 1,
+    "answer_text": "Any public duty",
+    "explanation": "'Leitourgia' originally referred broadly to public duty. Its meaning later became associated with religious and ecclesiastical service.",
+    "syllabus_page": 65,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-007",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "In the Septuagint, the term from which 'liturgy' comes was applied especially to:",
+    "options": [
+      "Private meditation",
+      "Family worship only",
+      "Service in the Temple",
+      "Military service"
+    ],
+    "answer": 2,
+    "answer_text": "Service in the Temple",
+    "explanation": "In the Septuagint, the term was used for service in the Temple. This helps explain how a word for public service acquired a specifically religious meaning.",
+    "syllabus_page": 65,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-008",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "In ecclesiastical usage, the syllabus says that 'liturgy' came to mean:",
+    "options": [
+      "Only the sermon",
+      "Only Holy Communion",
+      "Only the work of the choir",
+      "The official worship of the Church"
+    ],
+    "answer": 3,
+    "answer_text": "The official worship of the Church",
+    "explanation": "The word came to be applied to the official worship of the Church. Eastern usage particularly associated liturgy with the Eucharist, while Western usage could refer to the whole formal corporate worship.",
+    "syllabus_page": 65,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-009",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "A good liturgy should express the common participation of:",
+    "options": [
+      "Both clergy and laity",
+      "Only the choir",
+      "Only Local Preachers",
+      "Only ordained ministers"
+    ],
+    "answer": 0,
+    "answer_text": "Both clergy and laity",
+    "explanation": "Because liturgy is the 'work of the people', both clergy and laity should participate. Worship becomes deficient when the clergy monopolize it.",
+    "syllabus_page": 65,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-010",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "One advantage of a familiar fixed order of worship is that it:",
+    "options": [
+      "Eliminates all flexibility",
+      "Reduces the need for repeated announcements directing the congregation",
+      "Prevents congregational participation",
+      "Makes preaching unnecessary"
+    ],
+    "answer": 1,
+    "answer_text": "Reduces the need for repeated announcements directing the congregation",
+    "explanation": "A familiar order helps worship flow naturally without frequent announcements about what comes next. Reasonable flexibility is still possible within an ordered service.",
+    "syllabus_page": 65,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-011",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "In liturgy, 'ritual' refers mainly to:",
+    "options": [
+      "The architecture of the church",
+      "The movement of ministers",
+      "The form of words said or sung in worship",
+      "The silent period after a sermon"
+    ],
+    "answer": 2,
+    "answer_text": "The form of words said or sung in worship",
+    "explanation": "Ritual is the form of words used in worship, especially prescribed words that are said or sung. These words are important channels of communication between God and worshippers.",
+    "syllabus_page": 66,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-012",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "According to the syllabus, liturgical music should be judged mainly by its ability to:",
+    "options": [
+      "Display musical skill",
+      "Replace spoken prayer",
+      "Keep the service long",
+      "Express Christian ideas"
+    ],
+    "answer": 3,
+    "answer_text": "Express Christian ideas",
+    "explanation": "Liturgical music is used for the sake of the words and the faith they express. Its fitness is therefore judged by how well it communicates Christian ideas.",
+    "syllabus_page": 66,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-013",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "Which of the following can function as a visual aid in liturgical ceremony?",
+    "options": [
+      "Church architecture and furnishings",
+      "Only musical notes",
+      "Only printed sermons",
+      "Only announcements"
+    ],
+    "answer": 0,
+    "answer_text": "Church architecture and furnishings",
+    "explanation": "Architecture, furnishings and ornaments can serve as visual aids by suggesting holiness, solemnity and the character of worship.",
+    "syllabus_page": 67,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-014",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "Which of the following is identified as a danger of liturgical worship?",
+    "options": [
+      "Biblical language",
+      "Cold formality",
+      "Congregational participation",
+      "A balanced church year"
+    ],
+    "answer": 1,
+    "answer_text": "Cold formality",
+    "explanation": "Liturgy can become a cold formality, a routine without love for God, or an occasion for the officiant's pride. Good liturgy therefore requires spiritually prepared leadership.",
+    "syllabus_page": 68,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-015",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "In the Eastern Church, the term 'liturgy' came to refer particularly to:",
+    "options": [
+      "The sermon",
+      "Private devotion",
+      "The Eucharist",
+      "The church year"
+    ],
+    "answer": 2,
+    "answer_text": "The Eucharist",
+    "explanation": "In Eastern Christian usage, liturgy was used particularly for the Eucharist. Western usage was broader, referring to the whole formal corporate worship.",
+    "syllabus_page": 65,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-016",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "Which sequence illustrates the logical ordering of a baptismal liturgy?",
+    "options": [
+      "The sermon after dismissal only",
+      "The act of Baptism before the vows",
+      "The blessing before the offering is brought",
+      "The vows of Baptism before the act of Baptism"
+    ],
+    "answer": 3,
+    "answer_text": "The vows of Baptism before the act of Baptism",
+    "explanation": "Liturgical order follows a meaningful progression. The baptismal vows logically come before the act of Baptism.",
+    "syllabus_page": 65,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-017",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "In the Eucharistic order, what logically happens before the bread and wine are blessed and distributed?",
+    "options": [
+      "They are offered",
+      "They are removed",
+      "The creed is omitted",
+      "The congregation leaves"
+    ],
+    "answer": 0,
+    "answer_text": "They are offered",
+    "explanation": "Offering the bread and wine before blessing and distribution illustrates logical liturgical order.",
+    "syllabus_page": 65,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-018",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "Rubrics printed in a liturgical order are meant primarily to be:",
+    "options": [
+      "Sung by the choir",
+      "Used as instructions rather than read or sung",
+      "Preached as the sermon",
+      "Read aloud by the congregation"
+    ],
+    "answer": 1,
+    "answer_text": "Used as instructions rather than read or sung",
+    "explanation": "Rubrics guide the liturgist about actions such as standing, sitting or other prescribed movements. They are instructions, not words to be read or sung.",
+    "syllabus_page": 66,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-019",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "When a liturgical ceremony is described as 'utilitarian', it means that the action:",
+    "options": [
+      "Is mainly for entertainment",
+      "Must be dramatic and elaborate",
+      "Is performed because it is necessary for the service",
+      "Is optional decoration"
+    ],
+    "answer": 2,
+    "answer_text": "Is performed because it is necessary for the service",
+    "explanation": "A utilitarian ceremony is done because it needs to be done, such as entering, moving to the lectern or presenting the offering. It should be carried out simply rather than as a display.",
+    "syllabus_page": 66,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-020",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "Which of the following is an example of an interpretative or expressive ceremony?",
+    "options": [
+      "Counting attendance",
+      "Reading a notice",
+      "Printing the bulletin",
+      "Uplifting the hands in blessing"
+    ],
+    "answer": 3,
+    "answer_text": "Uplifting the hands in blessing",
+    "explanation": "Interpretative ceremonies express meaning through action. Examples include bowing, kneeling for Communion, uplifted hands in blessing, processional vestments and liturgical colours.",
+    "syllabus_page": 67,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-021",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "The syllabus associates the historical style of Methodist liturgical ceremony mainly with the:",
+    "options": [
+      "18th century",
+      "12th century",
+      "16th century",
+      "21st century"
+    ],
+    "answer": 0,
+    "answer_text": "18th century",
+    "explanation": "Methodist worship is characterized here as reflecting an eighteenth-century style.",
+    "syllabus_page": 67,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-022",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "One value of formal liturgy is that it protects the worshipper by preserving:",
+    "options": [
+      "Clerical monopoly",
+      "The orthodoxy of common prayer",
+      "Only spontaneous speech",
+      "Private opinion"
+    ],
+    "answer": 1,
+    "answer_text": "The orthodoxy of common prayer",
+    "explanation": "Formal liturgy helps preserve orthodox language in common prayer and protects worship from ignorance or unbelief.",
+    "syllabus_page": 67,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-023",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "Formal liturgy promotes uniformity of worship:",
+    "options": [
+      "Only within one congregation",
+      "Only among clergy",
+      "From church to church and country to country",
+      "Only during Communion"
+    ],
+    "answer": 2,
+    "answer_text": "From church to church and country to country",
+    "explanation": "One stated value of formal liturgy is a recognizable uniformity of worship across churches and countries.",
+    "syllabus_page": 67,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-024",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Introduction to Liturgics",
+    "q": "In the priestly role of the liturgist, the liturgist represents:",
+    "options": [
+      "Only the choir before the minister",
+      "The state before the church",
+      "Only the clergy before the congregation",
+      "The congregation before God and God before the congregation"
+    ],
+    "answer": 3,
+    "answer_text": "The congregation before God and God before the congregation",
+    "explanation": "The liturgist leads the great dialogue of worship, representing the congregation before God and speaking God's Word to the congregation.",
+    "syllabus_page": 68,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-01-025",
+    "variant": "Unique",
+    "main_topic": "Introduction to Liturgics"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "The Old English root 'weorthscipe', from which 'worship' is derived, points to:",
+    "options": [
+      "Serving only through physical labour",
+      "Singing loudly in church",
+      "Offering money during worship",
+      "Worthiness and giving recognition to God's worth"
+    ],
+    "answer": 3,
+    "answer_text": "Worthiness and giving recognition to God's worth",
+    "explanation": "Worship attributes worth, honour and reverence to God. 'Weorthscipe' carries the idea of worthiness or worth-ship.",
+    "syllabus_page": 69,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-001",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "Which two words are described as central to the definition of Christian worship?",
+    "options": [
+      "Revelation and response",
+      "Praise and thanksgiving",
+      "Prayer and preaching",
+      "Sacrifice and service"
+    ],
+    "answer": 0,
+    "answer_text": "Revelation and response",
+    "explanation": "Christian worship is described as God's revelation of himself in Jesus Christ and the human response to that revelation. Christ stands at the centre of both revelation and response.",
+    "syllabus_page": 69,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-002",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "Which statement best expresses the syllabus distinction between worship and service?",
+    "options": [
+      "Service is more important than worship",
+      "All worship is service to God, but not all service to God is worship",
+      "All service is worship, but not all worship is service",
+      "Worship and service mean exactly the same thing"
+    ],
+    "answer": 1,
+    "answer_text": "All worship is service to God, but not all service to God is worship",
+    "explanation": "Daniel and other biblical examples show that faithful service and worship are not identical. All worship serves God, but Christian service includes many acts of obedience beyond acts of worship.",
+    "syllabus_page": 70,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-003",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "According to the syllabus, worship differs from praise because worship responds primarily to:",
+    "options": [
+      "The music used in church",
+      "What the congregation has received",
+      "Who God is",
+      "What God has done"
+    ],
+    "answer": 2,
+    "answer_text": "Who God is",
+    "explanation": "Worship responds to God's nature, being and worth, while praise responds especially to God's deeds and what God has done.",
+    "syllabus_page": 71,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-004",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "Which of the following is listed among the New Testament elements of worship?",
+    "options": [
+      "Prayer",
+      "Giving",
+      "Reading Scripture",
+      "All of the above"
+    ],
+    "answer": 3,
+    "answer_text": "All of the above",
+    "explanation": "Reading Scripture, prayer, singing, preaching, Baptism, the Lord's Supper and giving are elements of worship.",
+    "syllabus_page": 72,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-005",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "In the acronym PRAISE used for the worship leader's dependence on the Holy Spirit, the letter 'R' stands for:",
+    "options": [
+      "Reliance on the Holy Spirit",
+      "Repentance",
+      "Reverence",
+      "Reading Scripture"
+    ],
+    "answer": 0,
+    "answer_text": "Reliance on the Holy Spirit",
+    "explanation": "PRAISE includes Preparation with the Holy Spirit through Prayer, Reliance on the Holy Spirit, Adjustment, Inspiration, Singing in the Holy Spirit, and Edifying the church.",
+    "syllabus_page": 72,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-006",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "The Old Testament words 'shachah' and 'kaghadh' used for worship carry the idea of:",
+    "options": [
+      "Teaching a lesson",
+      "Bowing down or prostrating oneself",
+      "Travelling to Jerusalem",
+      "Giving money"
+    ],
+    "answer": 1,
+    "answer_text": "Bowing down or prostrating oneself",
+    "explanation": "These Old Testament terms express bodily reverence, such as bowing, prostrating or falling down before God.",
+    "syllabus_page": 69,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-007",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "The New Testament word 'proskuneo' used for worship carries the idea of:",
+    "options": [
+      "Working for wages",
+      "Serving food",
+      "Kissing toward or prostrating oneself in homage",
+      "Studying privately"
+    ],
+    "answer": 2,
+    "answer_text": "Kissing toward or prostrating oneself in homage",
+    "explanation": "Proskuneo means to kiss toward, prostrate oneself, or render homage. It expresses reverence and submission.",
+    "syllabus_page": 69,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-008",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "Which statement about Christian worship is supported by the syllabus?",
+    "options": [
+      "It occurs only in a church building",
+      "It is limited to Sundays",
+      "It is tied to one sacred place only",
+      "It may be personal or corporate and is fundamentally connected with the heart or attitude"
+    ],
+    "answer": 3,
+    "answer_text": "It may be personal or corporate and is fundamentally connected with the heart or attitude",
+    "explanation": "Worship may be personal or corporate and is not finally tied to a particular place. The attitude of the worshipper and the relationship with God are central.",
+    "syllabus_page": 69,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-009",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "Why is worship described as a dialogue?",
+    "options": [
+      "Because God speaks and the people respond",
+      "Because the preacher and choir debate",
+      "Because worship is mainly conversation among members",
+      "Because only the congregation speaks"
+    ],
+    "answer": 0,
+    "answer_text": "Because God speaks and the people respond",
+    "explanation": "God speaks through Scripture, preaching and Christ's presence in Holy Communion, while worshippers respond with praise, prayer and the offering of themselves.",
+    "syllabus_page": 69,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-010",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "The statement 'worship is a lifestyle, not an event' means that worship:",
+    "options": [
+      "Requires music at all times",
+      "Should shape the Christian's whole daily relationship with Christ",
+      "Is confined to formal services",
+      "Can happen only when a congregation gathers"
+    ],
+    "answer": 1,
+    "answer_text": "Should shape the Christian's whole daily relationship with Christ",
+    "explanation": "Worship is a day-to-day relationship with Christ. Formal services matter, but worship is not limited by a building, time or single religious event.",
+    "syllabus_page": 70,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-011",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "Daniel's service to Nebuchadnezzar and Darius is used to show that:",
+    "options": [
+      "Civil service is forbidden",
+      "Service and worship are always identical",
+      "A person may faithfully serve someone without worshipping that person",
+      "Only kings may be served"
+    ],
+    "answer": 2,
+    "answer_text": "A person may faithfully serve someone without worshipping that person",
+    "explanation": "Daniel served earthly rulers faithfully but refused worship that belonged to God. The example shows why all worship is service to God, while not every form of service is worship.",
+    "syllabus_page": 70,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-012",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "Praise differs from worship in that praise responds especially to:",
+    "options": [
+      "God's existence alone",
+      "The authority of the minister",
+      "The liturgical calendar",
+      "God's deeds and benefits"
+    ],
+    "answer": 3,
+    "answer_text": "God's deeds and benefits",
+    "explanation": "Worship responds to who God is, while praise responds especially to what God has done, such as provision, forgiveness, protection and salvation.",
+    "syllabus_page": 71,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-013",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "Which biblical figures are cited as refusing worship directed to created beings?",
+    "options": [
+      "Peter and an angel",
+      "Paul and Barnabas only",
+      "Moses and Aaron",
+      "David and Solomon"
+    ],
+    "answer": 0,
+    "answer_text": "Peter and an angel",
+    "explanation": "Peter refused Cornelius' worship in Acts 10, and the angel in Revelation 22 refused John's worship. These examples show that worship belongs to God alone.",
+    "syllabus_page": 72,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-014",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "According to the syllabus, physical expressions such as clapping, dancing and lifting hands in worship should be:",
+    "options": [
+      "Completely forbidden",
+      "Used with honour, discernment and decorum",
+      "Required in every service",
+      "Practised without restraint"
+    ],
+    "answer": 1,
+    "answer_text": "Used with honour, discernment and decorum",
+    "explanation": "Bodily expression is not rejected, but excess and abuse must be avoided. Such expressions should honour God, fit the occasion and remain consistent with Christian worship.",
+    "syllabus_page": 74,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-015",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "The New Testament word 'latreuo' is used in the syllabus mainly with the sense of:",
+    "options": [
+      "Financial giving only",
+      "Private study",
+      "Religious service or public worship",
+      "Political rule"
+    ],
+    "answer": 2,
+    "answer_text": "Religious service or public worship",
+    "explanation": "Latreuo carries the idea of serving religiously, performing sacred service or worshipping God.",
+    "syllabus_page": 69,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-016",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "In the Roman Catholic description quoted in the syllabus, worship involves:",
+    "options": [
+      "Only preaching and giving",
+      "The glorification of humanity",
+      "Only singing and prayer",
+      "The glorification of God and the sanctification of humanity"
+    ],
+    "answer": 3,
+    "answer_text": "The glorification of God and the sanctification of humanity",
+    "explanation": "The description joins two dimensions of worship: God is glorified and human beings are sanctified.",
+    "syllabus_page": 69,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-017",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "Which statement correctly describes where Christian worship may take place?",
+    "options": [
+      "It may be personal or corporate and is not finally tied to a place",
+      "Only at annual festivals",
+      "Only in a temple",
+      "Only in a church building"
+    ],
+    "answer": 0,
+    "answer_text": "It may be personal or corporate and is not finally tied to a place",
+    "explanation": "Worship can be personal or corporate. The emphasis is on the worshipper's heart and attitude rather than confinement to one sacred location.",
+    "syllabus_page": 69,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-018",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "One demand of true worship is that worshippers should:",
+    "options": [
+      "Avoid serving the Kingdom of God",
+      "Subordinate their goals to God's goals",
+      "Separate worship from daily life",
+      "Seek personal recognition first"
+    ],
+    "answer": 1,
+    "answer_text": "Subordinate their goals to God's goals",
+    "explanation": "True worship involves humility and a willingness to place God's purposes above one's own goals.",
+    "syllabus_page": 69,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-019",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "In the dialogue of worship, God is heard especially through:",
+    "options": [
+      "Private opinions",
+      "The choir alone",
+      "Scripture, preaching and Christ's presence in Holy Communion",
+      "Announcements only"
+    ],
+    "answer": 2,
+    "answer_text": "Scripture, preaching and Christ's presence in Holy Communion",
+    "explanation": "Worship is reciprocal: God addresses the people through Scripture, preaching and Holy Communion, and the people respond in praise, prayer and self-offering.",
+    "syllabus_page": 69,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-020",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "Jesus' practice of going to the mountains is used in the syllabus to illustrate:",
+    "options": [
+      "Market exchange",
+      "Church discipline",
+      "Liturgical vestments",
+      "Private worship"
+    ],
+    "answer": 3,
+    "answer_text": "Private worship",
+    "explanation": "The examples from the Gospels show Jesus withdrawing to pray and worship privately, reminding Christians not to limit worship to corporate gatherings.",
+    "syllabus_page": 71,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-021",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "Peter's response to Cornelius and the angel's response to John in Revelation are used to teach that:",
+    "options": [
+      "Worship belongs to God alone",
+      "Apostles are divine",
+      "Human beings may receive worship",
+      "Angels should be worshipped"
+    ],
+    "answer": 0,
+    "answer_text": "Worship belongs to God alone",
+    "explanation": "Both Peter and the angel refuse worship directed toward them. The examples reinforce the teaching that worship is properly rendered to God alone.",
+    "syllabus_page": 72,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-022",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "Acts 2:41-47 is used in the syllabus as a major passage for identifying:",
+    "options": [
+      "The Wesley family",
+      "Elements of Christian worship",
+      "Methods of Baptism",
+      "Economic systems"
+    ],
+    "answer": 1,
+    "answer_text": "Elements of Christian worship",
+    "explanation": "The life of the early Jerusalem church in Acts 2 provides a basis for identifying elements such as teaching, fellowship, breaking bread, prayer, praise and sharing.",
+    "syllabus_page": 72,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-023",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "According to the syllabus, after Pentecost the new worship leader is:",
+    "options": [
+      "The organist",
+      "The civil magistrate",
+      "The Holy Spirit",
+      "The choir master"
+    ],
+    "answer": 2,
+    "answer_text": "The Holy Spirit",
+    "explanation": "At Pentecost the Holy Spirit becomes the one who connects, inspires and conducts Christian worship.",
+    "syllabus_page": 72,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-024",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Worship",
+    "q": "In the PRAISE acronym for worship leadership, the letter 'E' stands for:",
+    "options": [
+      "Entering the sanctuary",
+      "Ending the service",
+      "Evangelizing the city",
+      "Edifying the church"
+    ],
+    "answer": 3,
+    "answer_text": "Edifying the church",
+    "explanation": "The final letter in PRAISE is 'Edifying the church'. Worship leadership should build up the congregation and restrain excesses when necessary.",
+    "syllabus_page": 73,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-02-025",
+    "variant": "Unique",
+    "main_topic": "Worship"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "A sacrament is generally described in the syllabus as:",
+    "options": [
+      "A private religious opinion",
+      "Any religious object kept in a church",
+      "A sermon preached by an ordained minister",
+      "An outward and visible sign of an inward and spiritual grace"
+    ],
+    "answer": 3,
+    "answer_text": "An outward and visible sign of an inward and spiritual grace",
+    "explanation": "A sacrament is an outward and visible sign of an inward and spiritual grace: something visible expressing an unseen spiritual reality.",
+    "syllabus_page": 74,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-001",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "The word 'sacrament' is derived from the Latin:",
+    "options": [
+      "Sacramentum",
+      "Koinonia",
+      "Leitourgia",
+      "Proskuneo"
+    ],
+    "answer": 0,
+    "answer_text": "Sacramentum",
+    "explanation": "The word sacrament comes from the Latin 'sacramentum'.",
+    "syllabus_page": 74,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-002",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "How many sacraments are accepted and performed by Methodists according to the syllabus?",
+    "options": [
+      "Seven",
+      "Two",
+      "Thirty",
+      "Five"
+    ],
+    "answer": 1,
+    "answer_text": "Two",
+    "explanation": "Protestant churches, including Methodists, accept two sacraments: Baptism and the Eucharist or Lord's Supper.",
+    "syllabus_page": 75,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-003",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "Which pair names the two sacraments accepted by Methodists?",
+    "options": [
+      "Confirmation and Ordination",
+      "Baptism and Confirmation",
+      "Baptism and the Lord's Supper",
+      "Matrimony and Penance"
+    ],
+    "answer": 2,
+    "answer_text": "Baptism and the Lord's Supper",
+    "explanation": "Methodists recognize Baptism and the Eucharist, also called the Lord's Supper, as the two sacraments.",
+    "syllabus_page": 75,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-004",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "Which of the following is one of the five elements of a sacrament listed in the syllabus?",
+    "options": [
+      "Minister",
+      "Form",
+      "Matter",
+      "All of the above"
+    ],
+    "answer": 3,
+    "answer_text": "All of the above",
+    "explanation": "The five elements listed are Matter, Form, Minister or Officiant, the Gift and the Benefit.",
+    "syllabus_page": 75,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-005",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "In the elements of a sacrament, 'Matter' refers to:",
+    "options": [
+      "The physical action and material used",
+      "The words of institution",
+      "The ordained officiant",
+      "The grace promised by God"
+    ],
+    "answer": 0,
+    "answer_text": "The physical action and material used",
+    "explanation": "Matter is the physical action and material involved, such as water in Baptism and bread and wine in the Eucharist. The Form refers to the words used.",
+    "syllabus_page": 75,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-006",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "Which of the following is NOT given as a reason for continuing the sacramental rites?",
+    "options": [
+      "Their role as symbols of divine acts in the Gospel",
+      "Their ability to replace preaching",
+      "Christ's command for their continuance",
+      "Their institution by Christ"
+    ],
+    "answer": 1,
+    "answer_text": "Their ability to replace preaching",
+    "explanation": "The sacraments continue because Christ instituted them, commanded their continuance, and they function as essential symbols of divine acts in the Gospel.",
+    "syllabus_page": 75,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-007",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "Hugo of Saint Victor in the twelfth century is said to have spoken of as many as:",
+    "options": [
+      "7 sacraments",
+      "2 sacraments",
+      "30 sacraments",
+      "12 sacraments"
+    ],
+    "answer": 2,
+    "answer_text": "30 sacraments",
+    "explanation": "Hugo of Saint Victor spoke of as many as thirty sacraments before later Western teaching settled on other enumerations.",
+    "syllabus_page": 75,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-008",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "Peter Lombard estimated the number of sacraments to be:",
+    "options": [
+      "Two",
+      "Five",
+      "Thirty",
+      "Seven"
+    ],
+    "answer": 3,
+    "answer_text": "Seven",
+    "explanation": "Peter Lombard is presented as identifying seven: Baptism, Eucharist, Confirmation, Orders, Matrimony, Penance and Extreme Unction.",
+    "syllabus_page": 75,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-009",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "In the five elements of a sacrament, 'Form' refers to:",
+    "options": [
+      "The words that signify the institution",
+      "The church building",
+      "The physical material used",
+      "The person receiving the sacrament"
+    ],
+    "answer": 0,
+    "answer_text": "The words that signify the institution",
+    "explanation": "The Form is the wording of the rite, such as the words of institution at the Eucharist. It corresponds to the ritual dimension of the sacrament.",
+    "syllabus_page": 75,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-010",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "According to the syllabus, the 'Minister' or officiant of the sacrament is:",
+    "options": [
+      "Only a choir leader",
+      "The ordained clergy of the Word set aside for Word and Sacrament",
+      "Any baptized adult",
+      "Any person chosen by the congregation"
+    ],
+    "answer": 1,
+    "answer_text": "The ordained clergy of the Word set aside for Word and Sacrament",
+    "explanation": "The minister or officiant is ordained clergy set apart for the administration of Word and Sacrament.",
+    "syllabus_page": 75,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-011",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "The 'Sacramental Gift' is:",
+    "options": [
+      "The money offered by the congregation",
+      "The physical bread alone",
+      "The grace promised by God to the recipient",
+      "The service book"
+    ],
+    "answer": 2,
+    "answer_text": "The grace promised by God to the recipient",
+    "explanation": "Among the five elements, the Gift is the grace promised by God. The sacrament visibly signifies and conveys the promised spiritual blessing.",
+    "syllabus_page": 75,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-012",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "The Greek word from which 'Baptism' is derived is explained as meaning:",
+    "options": [
+      "To preach",
+      "To anoint with oil",
+      "To sing",
+      "To dip or immerse in water"
+    ],
+    "answer": 3,
+    "answer_text": "To dip or immerse in water",
+    "explanation": "Baptism is connected with the Greek 'baptize', meaning to dip or immerse in water.",
+    "syllabus_page": 76,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-013",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "Baptism is described in the syllabus as the central act of:",
+    "options": [
+      "Christian initiation",
+      "Marriage preparation",
+      "Funeral worship",
+      "Church administration"
+    ],
+    "answer": 0,
+    "answer_text": "Christian initiation",
+    "explanation": "Baptism is presented as the central act of Christian initiation and is compared with circumcision in the Old Testament covenant community.",
+    "syllabus_page": 76,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-014",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "The 'efficacy' of a sacrament refers to:",
+    "options": [
+      "The number of people present",
+      "Its ability to effect the purpose for which it is administered",
+      "The age of the minister",
+      "Its length"
+    ],
+    "answer": 1,
+    "answer_text": "Its ability to effect the purpose for which it is administered",
+    "explanation": "Efficacy means the sacrament's effectiveness in accomplishing what it signifies, whether imparting grace or effectively representing that reality.",
+    "syllabus_page": 80,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-015",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "In the five elements of a sacrament, the 'Benefit' is:",
+    "options": [
+      "The words of institution",
+      "The material used",
+      "The grace actually received",
+      "The ordained minister"
+    ],
+    "answer": 2,
+    "answer_text": "The grace actually received",
+    "explanation": "The Benefit is the grace actually received by the recipient. This is distinguished from the Gift, which is the grace promised by God.",
+    "syllabus_page": 76,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-016",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "Unlike Old Testament circumcision, Christian Baptism is open to:",
+    "options": [
+      "Priests only",
+      "Males only",
+      "Females only",
+      "Both sexes"
+    ],
+    "answer": 3,
+    "answer_text": "Both sexes",
+    "explanation": "Circumcision was limited to males, while Christian Baptism is open to both sexes.",
+    "syllabus_page": 76,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-017",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "Christian Baptism is administered in the name of:",
+    "options": [
+      "The Father, the Son and the Holy Spirit",
+      "Faith, hope and love",
+      "Abraham, Isaac and Jacob",
+      "Peter, James and John"
+    ],
+    "answer": 0,
+    "answer_text": "The Father, the Son and the Holy Spirit",
+    "explanation": "Matthew 28:19 provides the Trinitarian formula for Baptism: in the name of the Father, the Son and the Holy Spirit.",
+    "syllabus_page": 76,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-018",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "How many methods of Baptism are listed in the syllabus?",
+    "options": [
+      "Seven",
+      "Four",
+      "Two",
+      "Three"
+    ],
+    "answer": 1,
+    "answer_text": "Four",
+    "explanation": "Four methods are listed: submersion or total immersion, immersion, effusion or pouring, and aspersion or sprinkling.",
+    "syllabus_page": 76,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-019",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "Which method of Baptism is described as the ecumenically accepted form?",
+    "options": [
+      "Immersion",
+      "Effusion",
+      "Aspersion or sprinkling",
+      "Submersion"
+    ],
+    "answer": 2,
+    "answer_text": "Aspersion or sprinkling",
+    "explanation": "Aspersion is the sprinkling of water on the candidate's head and is described as the ecumenically accepted form.",
+    "syllabus_page": 77,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-020",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "One major significance of Baptism is that it denotes:",
+    "options": [
+      "Political membership",
+      "Economic independence",
+      "Ordination to ministry",
+      "New birth in Christ"
+    ],
+    "answer": 3,
+    "answer_text": "New birth in Christ",
+    "explanation": "Baptism signifies new birth, sonship, newness of life, entry into covenant with God and participation in the life of Christ.",
+    "syllabus_page": 77,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-021",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "The word 'Eucharist' is connected with the Greek 'Eucharisto', meaning:",
+    "options": [
+      "To give thanks",
+      "To baptize",
+      "To forgive",
+      "To preach"
+    ],
+    "answer": 0,
+    "answer_text": "To give thanks",
+    "explanation": "The Eucharist is thanksgiving. In the Lord's Supper the Church gives thanks for God's work in creation, redemption and sanctification.",
+    "syllabus_page": 78,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-022",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "In the theology of the Lord's Supper, 'Anamnesis' means:",
+    "options": [
+      "Ordination",
+      "Remembering",
+      "Invocation",
+      "Giving"
+    ],
+    "answer": 1,
+    "answer_text": "Remembering",
+    "explanation": "Anamnesis is remembering. At the Lord's Table the Church remembers Christ's life, death, resurrection and promised return.",
+    "syllabus_page": 78,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-023",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "In the Lord's Supper, 'Epiklesis' refers to:",
+    "options": [
+      "The reading of notices",
+      "The collection of offerings",
+      "Invocation of the Holy Spirit",
+      "The dismissal"
+    ],
+    "answer": 2,
+    "answer_text": "Invocation of the Holy Spirit",
+    "explanation": "Epiklesis is the invocation or calling upon the Holy Spirit in relation to the bread, wine and gathered people.",
+    "syllabus_page": 78,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-024",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Liturgics",
+    "section": "Sacraments",
+    "q": "The term 'Koinonia' in the Lord's Supper emphasizes:",
+    "options": [
+      "Liturgical silence",
+      "Clerical rank",
+      "Private ownership",
+      "Communion and the unity of the faithful"
+    ],
+    "answer": 3,
+    "answer_text": "Communion and the unity of the faithful",
+    "explanation": "Koinonia points to communion with Christ and with all who belong to Christ. Sharing one loaf signifies the unity of the Church.",
+    "syllabus_page": 78,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-03-025",
+    "variant": "Unique",
+    "main_topic": "Sacraments"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "Methodist Studies is described as the discipline dealing with the history, beliefs and practices of Methodism as:",
+    "options": [
+      "Only an English social club",
+      "A branch of Roman Catholicism",
+      "Only a political movement",
+      "A Reform Movement and a Denomination within Evangelical Christianity"
+    ],
+    "answer": 3,
+    "answer_text": "A Reform Movement and a Denomination within Evangelical Christianity",
+    "explanation": "Methodist Studies deals with Methodism both as a reform movement and as a denomination within Evangelical Christianity.",
+    "syllabus_page": 83,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-001",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "Modern Methodist groups trace their roots especially to the work of:",
+    "options": [
+      "John and Charles Wesley",
+      "George Fox and William Penn",
+      "Martin Luther and John Calvin",
+      "Peter and Paul"
+    ],
+    "answer": 0,
+    "answer_text": "John and Charles Wesley",
+    "explanation": "Methodist groups trace their roots especially to John and Charles Wesley, sons of Samuel and Susanna Wesley.",
+    "syllabus_page": 83,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-002",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "Which group was associated with John and Charles Wesley, George Whitefield and others at Oxford?",
+    "options": [
+      "The SPCK",
+      "The Holy Club",
+      "The Clapham Sect",
+      "The Non-Aligned Movement"
+    ],
+    "answer": 1,
+    "answer_text": "The Holy Club",
+    "explanation": "The Holy Club was associated with John and Charles Wesley and companions including George Whitefield, Benjamin Ingham, Charles Delamotte and John Clayton.",
+    "syllabus_page": 83,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-003",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "One major reason given for studying Methodism is to:",
+    "options": [
+      "Avoid Christian formation",
+      "Forget denominational history",
+      "Know and preserve the heritage and core values of the faith community",
+      "Replace the study of Scripture"
+    ],
+    "answer": 2,
+    "answer_text": "Know and preserve the heritage and core values of the faith community",
+    "explanation": "Neglecting history, doctrines and core values weakens Christian formation. Methodist Studies helps Methodists know and transmit their heritage.",
+    "syllabus_page": 83,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-004",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "Who were the parents of John and Charles Wesley?",
+    "options": [
+      "John and Mary Wesley",
+      "Samuel and Anne Annesley",
+      "George and Elizabeth Whitefield",
+      "Samuel and Susanna Wesley"
+    ],
+    "answer": 3,
+    "answer_text": "Samuel and Susanna Wesley",
+    "explanation": "Samuel and Susanna Wesley were the parents of John and Charles. Their Epworth home strongly shaped the brothers' education, discipline and spirituality.",
+    "syllabus_page": 84,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-005",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "How many children were born to Samuel and Susanna Wesley according to the syllabus?",
+    "options": [
+      "Nineteen",
+      "Twelve",
+      "Nine",
+      "Twenty-four"
+    ],
+    "answer": 0,
+    "answer_text": "Nineteen",
+    "explanation": "Samuel and Susanna Wesley had nineteen children; ten died in infancy and nine survived.",
+    "syllabus_page": 85,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-006",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "Bartholomew Wesley was ejected from his parish after refusing to conform to the:",
+    "options": [
+      "Act of Emancipation",
+      "Act of Uniformity of 1662",
+      "Reform Act of 1832",
+      "Toleration Act of 1689"
+    ],
+    "answer": 1,
+    "answer_text": "Act of Uniformity of 1662",
+    "explanation": "Bartholomew Wesley, John Wesley's paternal great-grandfather, was among ministers ejected for refusing conformity under the 1662 settlement.",
+    "syllabus_page": 83,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-007",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "Samuel Wesley became rector at Epworth in:",
+    "options": [
+      "1729",
+      "1662",
+      "1697",
+      "1703"
+    ],
+    "answer": 2,
+    "answer_text": "1697",
+    "explanation": "Samuel Wesley, father of John and Charles, became rector at Epworth in 1697.",
+    "syllabus_page": 85,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-008",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "John Wesley was born on:",
+    "options": [
+      "June 24, 1835",
+      "May 24, 1738",
+      "December 18, 1708",
+      "June 28, 1703"
+    ],
+    "answer": 3,
+    "answer_text": "June 28, 1703",
+    "explanation": "John Benjamin Wesley was born on June 28, 1703. He was the fifteenth child of Samuel and Susanna Wesley.",
+    "syllabus_page": 86,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-009",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "Charles Wesley was born on:",
+    "options": [
+      "December 18, 1708",
+      "May 1, 1738",
+      "January 1, 1835",
+      "June 28, 1703"
+    ],
+    "answer": 0,
+    "answer_text": "December 18, 1708",
+    "explanation": "Charles Wesley was born on December 18, 1708, five years after John. Charles was the seventeenth of the nineteen Wesley children.",
+    "syllabus_page": 86,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-010",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "At what age did John Wesley enter Charterhouse School?",
+    "options": [
+      "Five",
+      "Eleven",
+      "Eight",
+      "Seventeen"
+    ],
+    "answer": 1,
+    "answer_text": "Eleven",
+    "explanation": "John Wesley entered Charterhouse in 1714 at the age of eleven, on a scholarship provided by the Duke of Buckingham.",
+    "syllabus_page": 88,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-011",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "John Wesley and his companions sailed for Georgia on October 21, 1735 aboard the:",
+    "options": [
+      "Victory",
+      "Mayflower",
+      "Simmonds",
+      "Endeavour"
+    ],
+    "answer": 2,
+    "answer_text": "Simmonds",
+    "explanation": "John Wesley, Charles Wesley, Benjamin Ingham and Charles Delamotte left for Georgia aboard the Simmonds.",
+    "syllabus_page": 92,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-012",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "One important lesson Wesley drew from the Moravians was that:",
+    "options": [
+      "Christianity requires political office",
+      "Worship should exclude hymns",
+      "Salvation depends on social status",
+      "Faith must be fearless and piety can be cheerful"
+    ],
+    "answer": 3,
+    "answer_text": "Faith must be fearless and piety can be cheerful",
+    "explanation": "The Moravians impressed Wesley with their calm faith. They taught him, among other things, that faith must be fearless and piety can be buoyant or cheerful.",
+    "syllabus_page": 93,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-013",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "John Wesley's Aldersgate Street experience occurred on:",
+    "options": [
+      "May 24, 1738",
+      "May 1, 1738",
+      "October 21, 1735",
+      "June 1744"
+    ],
+    "answer": 0,
+    "answer_text": "May 24, 1738",
+    "explanation": "On May 24, 1738 Wesley attended a society in Aldersgate Street where Luther's preface to Romans was being read and described his heart as 'strangely warmed'.",
+    "syllabus_page": 97,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-014",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "The earliest religious society of Wesley's own in England was inaugurated, on Peter Bohler's advice, on:",
+    "options": [
+      "May 24, 1738",
+      "May 1, 1738",
+      "December 18, 1708",
+      "January 1, 1835"
+    ],
+    "answer": 1,
+    "answer_text": "May 1, 1738",
+    "explanation": "Wesley's earliest society in England was inaugurated on May 1, 1738. It first met at James Hutton's house and later at Fetter Lane.",
+    "syllabus_page": 100,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-015",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "John Wesley entered Oxford University in 1720 at the age of:",
+    "options": [
+      "Twenty-four",
+      "Eleven",
+      "Seventeen",
+      "Thirty-five"
+    ],
+    "answer": 2,
+    "answer_text": "Seventeen",
+    "explanation": "John Wesley matriculated at Christ Church, Oxford, in 1720 when he was seventeen years old.",
+    "syllabus_page": 89,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-016",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "John Wesley's first major religious awakening at Oxford is dated to:",
+    "options": [
+      "1703",
+      "1738",
+      "1744",
+      "1725"
+    ],
+    "answer": 3,
+    "answer_text": "1725",
+    "explanation": "The year 1725 marks an important early awakening for John Wesley, connected with his consideration of Christian ministry as a vocation.",
+    "syllabus_page": 89,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-017",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "John Wesley was ordained deacon on September 19, 1725 by:",
+    "options": [
+      "Bishop Potter of Oxford",
+      "Thomas Coke",
+      "George Whitefield",
+      "Peter Bohler"
+    ],
+    "answer": 0,
+    "answer_text": "Bishop Potter of Oxford",
+    "explanation": "After resolving to prepare for ordination, Wesley was ordained deacon by Bishop Potter of Oxford on September 19, 1725.",
+    "syllabus_page": 90,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-018",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "John Wesley was ordained priest on:",
+    "options": [
+      "May 24, 1738",
+      "September 22, 1728",
+      "December 18, 1708",
+      "June 25, 1744"
+    ],
+    "answer": 1,
+    "answer_text": "September 22, 1728",
+    "explanation": "John Wesley was ordained priest on September 22, 1728.",
+    "syllabus_page": 90,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-019",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "When John Wesley returned to Oxford in 1729 and joined Charles Wesley's religious group, he:",
+    "options": [
+      "Disbanded the group",
+      "Moved the group to London",
+      "Immediately became its leader",
+      "Refused to participate"
+    ],
+    "answer": 2,
+    "answer_text": "Immediately became its leader",
+    "explanation": "Charles had gathered the group while John was away. On John's return in 1729, he joined it and quickly became its leader.",
+    "syllabus_page": 90,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-020",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "The early Christian writers Macarius the Egyptian and Ephraem Syrus influenced Wesley's understanding of perfection as:",
+    "options": [
+      "A rejection of holiness",
+      "A fixed social rank",
+      "A political programme",
+      "A process toward the goal of Christian life"
+    ],
+    "answer": 3,
+    "answer_text": "A process toward the goal of Christian life",
+    "explanation": "Their language of teleosis and skopos helped Wesley see Christian perfection as a process toward the goal of mature holiness or perfect love.",
+    "syllabus_page": 91,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-021",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "At the Aldersgate Street meeting on May 24, 1738, the reading that accompanied Wesley's 'strangely warmed' experience was:",
+    "options": [
+      "Luther's preface to the Epistle to the Romans",
+      "Calvin's Institutes",
+      "Wesley's Notes on the New Testament",
+      "The Book of Common Prayer"
+    ],
+    "answer": 0,
+    "answer_text": "Luther's preface to the Epistle to the Romans",
+    "explanation": "At Aldersgate someone was reading Martin Luther's preface to Romans when Wesley described his heart as 'strangely warmed' and experienced assurance of faith.",
+    "syllabus_page": 97,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-022",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "The United Societies of the people called Methodists date from about:",
+    "options": [
+      "The year 1662",
+      "The latter part of 1739",
+      "The year 1835",
+      "The year 1703"
+    ],
+    "answer": 1,
+    "answer_text": "The latter part of 1739",
+    "explanation": "The United Societies emerged in the later part of 1739 to provide fellowship, guidance and strengthening for people awakened during the Revival.",
+    "syllabus_page": 100,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-023",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "The Methodist Class Meeting arose at Bristol in connection with a proposal by:",
+    "options": [
+      "Thomas Maxfield",
+      "Captain Potter",
+      "Captain Foy",
+      "Bishop Potter"
+    ],
+    "answer": 2,
+    "answer_text": "Captain Foy",
+    "explanation": "At Bristol, Captain Foy suggested grouping members so weekly contributions toward a debt could be collected. The arrangement developed into the Methodist Class Meeting.",
+    "syllabus_page": 102,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-024",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Beginnings of Methodism",
+    "q": "The first Methodist Conference was held at the Foundery in London in:",
+    "options": [
+      "July 1961",
+      "May 1738",
+      "January 1791",
+      "June 1744"
+    ],
+    "answer": 3,
+    "answer_text": "June 1744",
+    "explanation": "The first Conference met at the Foundery from June 25 to June 29, 1744, to consider what to teach, how to teach and what to do.",
+    "syllabus_page": 103,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-04-025",
+    "variant": "Unique",
+    "main_topic": "Beginnings of Methodism"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "The Wesleyan Methodist Missionary Society (WMMS) was formed in England in:",
+    "options": [
+      "1703",
+      "1738",
+      "1835",
+      "1813"
+    ],
+    "answer": 3,
+    "answer_text": "1813",
+    "explanation": "The WMMS was formed in 1813 by the Wesleyan Methodist Conference and began work in Ghana in 1835.",
+    "syllabus_page": 106,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-001",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "Which group provided the foundation members for the Methodist Church Ghana before the arrival of the first missionary?",
+    "options": [
+      "The Cape Coast SPCK or Bible Band",
+      "The Moravian Society",
+      "The British Methodist Conference",
+      "The Holy Club"
+    ],
+    "answer": 0,
+    "answer_text": "The Cape Coast SPCK or Bible Band",
+    "explanation": "The Cape Coast SPCK, also known as the Meeting or Bible Band, requested Bibles and became the foundation group from which Methodist work in Ghana developed.",
+    "syllabus_page": 107,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-002",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "Who carried the Cape Coast group's request to the Wesleyan Methodist Missionary Society in England?",
+    "options": [
+      "George Wrigley",
+      "Captain Potter",
+      "Thomas Birch Freeman",
+      "John Wesley"
+    ],
+    "answer": 1,
+    "answer_text": "Captain Potter",
+    "explanation": "Captain Potter, an English sailor and Methodist, carried the request and offered to transport any missionary appointed to Cape Coast at his own expense.",
+    "syllabus_page": 108,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-003",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "Who was the first Wesleyan Methodist missionary sent to Cape Coast?",
+    "options": [
+      "Thomas Birch Freeman",
+      "Robert Brooking",
+      "Joseph Rhodes Dunwell",
+      "George Wrigley"
+    ],
+    "answer": 2,
+    "answer_text": "Joseph Rhodes Dunwell",
+    "explanation": "Joseph Rhodes Dunwell was recruited by the WMMS and arrived in Cape Coast on January 1, 1835, formally introducing Methodism in Ghana.",
+    "syllabus_page": 108,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-004",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "Joseph Rhodes Dunwell arrived in Cape Coast on:",
+    "options": [
+      "June 24, 1835",
+      "January 3, 1838",
+      "September 15, 1836",
+      "January 1, 1835"
+    ],
+    "answer": 3,
+    "answer_text": "January 1, 1835",
+    "explanation": "Dunwell arrived in Cape Coast on January 1, 1835. He died six months later on June 24, 1835.",
+    "syllabus_page": 109,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-005",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "Which missionary strongly promoted the training and use of a native ministry and opened a mission station in Kumasi?",
+    "options": [
+      "Thomas Birch Freeman",
+      "Joseph Rhodes Dunwell",
+      "Peter Harrop",
+      "George Wrigley"
+    ],
+    "answer": 0,
+    "answer_text": "Thomas Birch Freeman",
+    "explanation": "Thomas Birch Freeman believed strongly in native ministry, trained local workers, travelled widely, and succeeded in opening a mission station in Kumasi between 1841 and 1842.",
+    "syllabus_page": 112,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-006",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "The WMMS began work in Ghana in 1835, how many years after its formation in England?",
+    "options": [
+      "Fifty years",
+      "Twenty-two years",
+      "Ten years",
+      "Thirty years"
+    ],
+    "answer": 1,
+    "answer_text": "Twenty-two years",
+    "explanation": "The Wesleyan Methodist Missionary Society was formed in 1813 and began work in Ghana in 1835, a difference of twenty-two years.",
+    "syllabus_page": 106,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-007",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "Which institution is described as playing the single most significant preparatory role for later Methodist work in Ghana?",
+    "options": [
+      "The Fetter Lane Society",
+      "The Methodist Conference",
+      "Philip Quaque's school",
+      "The Holy Club"
+    ],
+    "answer": 2,
+    "answer_text": "Philip Quaque's school",
+    "explanation": "Philip Quaque's school played a major preparatory role before Methodist missionaries arrived.",
+    "syllabus_page": 106,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-008",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "As headteacher of the Cape Coast school, Joseph Smith introduced:",
+    "options": [
+      "The Watch Night Service",
+      "The Love Feast",
+      "The Quarterly Meeting",
+      "Bible reading as part of the curriculum"
+    ],
+    "answer": 3,
+    "answer_text": "Bible reading as part of the curriculum",
+    "explanation": "Joseph Smith introduced Bible reading to give pupils an accurate knowledge of Scripture. His insistence that the Bible be read without comment led to disagreement with William deGraft.",
+    "syllabus_page": 107,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-009",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "William deGraft's group at Cape Coast became known as:",
+    "options": [
+      "The Cape Coast SPCK or Bible Band",
+      "The Moravian Band",
+      "The Holy Club",
+      "The British Conference"
+    ],
+    "answer": 0,
+    "answer_text": "The Cape Coast SPCK or Bible Band",
+    "explanation": "DeGraft and others organized the Society for Promoting Christian Knowledge at Cape Coast, also called the Meeting or Bible Band.",
+    "syllabus_page": 107,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-010",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "The first recorded meeting of the Cape Coast SPCK took place on:",
+    "options": [
+      "August 14, 1837",
+      "October 1, 1831",
+      "January 3, 1838",
+      "January 1, 1835"
+    ],
+    "answer": 1,
+    "answer_text": "October 1, 1831",
+    "explanation": "The first recorded meeting of the Cape Coast SPCK took place on October 1, 1831.",
+    "syllabus_page": 107,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-011",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "Joseph Rhodes Dunwell died on:",
+    "options": [
+      "January 1, 1835",
+      "November 16, 1837",
+      "June 24, 1835",
+      "February 20, 1838"
+    ],
+    "answer": 2,
+    "answer_text": "June 24, 1835",
+    "explanation": "Dunwell's ministry in Cape Coast lasted only about six months. He died on June 24, 1835.",
+    "syllabus_page": 109,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-012",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "Which Methodist practice did Dunwell introduce during the Easter weekend of 1835?",
+    "options": [
+      "The Covenant Service",
+      "The District Synod",
+      "The Watch Night Service",
+      "The Love Feast"
+    ],
+    "answer": 3,
+    "answer_text": "The Love Feast",
+    "explanation": "During Easter 1835 Dunwell introduced the Love Feast, in which those present were allowed to relate their religious experience.",
+    "syllabus_page": 109,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-013",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "Who introduced the Quarterly Meeting into Methodism in Ghana?",
+    "options": [
+      "George Wrigley",
+      "Captain Potter",
+      "Joseph Rhodes Dunwell",
+      "Thomas Birch Freeman"
+    ],
+    "answer": 0,
+    "answer_text": "George Wrigley",
+    "explanation": "Rev. George Wrigley introduced the Quarterly Meeting, which first met at Cape Coast on August 14, 1837.",
+    "syllabus_page": 110,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-014",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "Thomas Birch Freeman and his wife arrived at Cape Coast on:",
+    "options": [
+      "August 14, 1837",
+      "January 3, 1838",
+      "January 1, 1835",
+      "September 15, 1836"
+    ],
+    "answer": 1,
+    "answer_text": "January 3, 1838",
+    "explanation": "Freeman arrived on January 3, 1838. He later became a major figure in the consolidation and expansion of Methodism in Ghana.",
+    "syllabus_page": 111,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-015",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "George Wrigley and his wife Harriet arrived in Cape Coast on:",
+    "options": [
+      "July 28, 1961",
+      "January 3, 1838",
+      "September 15, 1836",
+      "January 1, 1835"
+    ],
+    "answer": 2,
+    "answer_text": "September 15, 1836",
+    "explanation": "George Wrigley succeeded Dunwell and arrived with his wife in Cape Coast on September 15, 1836.",
+    "syllabus_page": 110,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-016",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "The first Quarterly Meeting of the Cape Coast Methodist church met on:",
+    "options": [
+      "October 1, 1831",
+      "January 3, 1838",
+      "June 24, 1835",
+      "August 14, 1837"
+    ],
+    "answer": 3,
+    "answer_text": "August 14, 1837",
+    "explanation": "Wrigley established the Quarterly Meeting, which first met at Cape Coast on August 14, 1837.",
+    "syllabus_page": 110,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-017",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "Which materials did George Wrigley translate into Fante according to the syllabus?",
+    "options": [
+      "The Conference Catechism, Ten Commandments, Lord's Prayer and portions of the New Testament",
+      "Only the Psalms",
+      "Only the Book of Genesis",
+      "Only Methodist hymns"
+    ],
+    "answer": 0,
+    "answer_text": "The Conference Catechism, Ten Commandments, Lord's Prayer and portions of the New Testament",
+    "explanation": "Wrigley studied Fante and translated key Christian materials, including the Conference Catechism, the Ten Commandments, the Lord's Prayer and portions of the New Testament.",
+    "syllabus_page": 111,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-018",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "The girls' school begun by Mrs. Wrigley in 1836 later became the basis for:",
+    "options": [
+      "Adisadel College",
+      "Wesley Girls High School",
+      "Achimota School",
+      "Mfantsipim School"
+    ],
+    "answer": 1,
+    "answer_text": "Wesley Girls High School",
+    "explanation": "Mrs. Wrigley's school taught girls to read and sew. It developed into Wesley Girls Primary School and became the basis for Wesley Girls High School in 1884.",
+    "syllabus_page": 111,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-019",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "Thomas Birch Freeman first visited Kumasi in:",
+    "options": [
+      "July 1878",
+      "January 1835",
+      "April 1839",
+      "September 1836"
+    ],
+    "answer": 2,
+    "answer_text": "April 1839",
+    "explanation": "Freeman's first visit to Kumasi took place in April 1839 during his early expansion of Methodist work.",
+    "syllabus_page": 112,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-020",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "Who became the first resident Methodist missionary at the new Kumasi mission station?",
+    "options": [
+      "George Wrigley",
+      "Joseph Smith",
+      "Josiah Mycock",
+      "Robert Brooking"
+    ],
+    "answer": 3,
+    "answer_text": "Robert Brooking",
+    "explanation": "After Freeman opened the Kumasi station, Rev. Robert Brooking became its first resident missionary.",
+    "syllabus_page": 112,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-021",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "The British Methodist Conference formally approved the creation of separate Gold Coast and Yoruba/Popo Districts in:",
+    "options": [
+      "July 1878",
+      "January 1835",
+      "August 1837",
+      "July 1961"
+    ],
+    "answer": 0,
+    "answer_text": "July 1878",
+    "explanation": "The Ghana-Nigeria District was divided for more effective oversight, and the British Conference approved the two districts in July 1878.",
+    "syllabus_page": 114,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-022",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "The 1954 Inter-District Conference that recommended an autonomous Methodist Conference in West Africa was held at:",
+    "options": [
+      "Kumasi",
+      "Ibadan",
+      "Cape Coast",
+      "London"
+    ],
+    "answer": 1,
+    "answer_text": "Ibadan",
+    "explanation": "Representatives of West African Methodist Synods met at Ibadan from April 26 to May 6, 1954 and recommended the creation of a West African Conference.",
+    "syllabus_page": 114,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-023",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "The Deed of Foundation inaugurating the autonomous Methodist Church Ghana was signed in Cape Coast on:",
+    "options": [
+      "August 14, 1837",
+      "February 6, 1877",
+      "July 28, 1961",
+      "January 1, 1835"
+    ],
+    "answer": 2,
+    "answer_text": "July 28, 1961",
+    "explanation": "The Deed of Foundation was signed at Wesley Chapel, Cape Coast, on July 28, 1961, marking the inauguration of the autonomous Methodist Church Ghana.",
+    "syllabus_page": 117,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-024",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Methodist Studies",
+    "section": "Methodism in Ghana",
+    "q": "Who was inducted as the first President of the newly constituted Methodist Church Ghana?",
+    "options": [
+      "George Wrigley",
+      "Thomas Birch Freeman",
+      "T. R. Picot",
+      "F. C. F. Grant"
+    ],
+    "answer": 3,
+    "answer_text": "F. C. F. Grant",
+    "explanation": "Rev. F. C. F. Grant was inducted as the first President of the newly constituted Methodist Church Ghana.",
+    "syllabus_page": 118,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-05-025",
+    "variant": "Unique",
+    "main_topic": "Methodism in Ghana"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "In the syllabus, to 'develop' generally means to:",
+    "options": [
+      "Increase only religious activity",
+      "Reduce all social differences",
+      "Become politically independent",
+      "Cause to grow larger, fuller or more mature"
+    ],
+    "answer": 3,
+    "answer_text": "Cause to grow larger, fuller or more mature",
+    "explanation": "To develop means to cause something to grow larger, fuller or more mature; the discussion then focuses mainly on economic development.",
+    "syllabus_page": 127,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-001",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "The syllabus mainly limits its discussion of development to:",
+    "options": [
+      "Economic development",
+      "Church architecture",
+      "Liturgical development",
+      "Biblical criticism"
+    ],
+    "answer": 0,
+    "answer_text": "Economic development",
+    "explanation": "Although development can be economic, political, religious, social or technical, the section mainly studies economic development and the distinction between developed and developing countries.",
+    "syllabus_page": 127,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-002",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "Developed or 'First World' countries are described mainly as:",
+    "options": [
+      "Nonindustrial and absolutely poor",
+      "Industrialized and relatively prosperous",
+      "Countries without markets",
+      "Countries without natural resources"
+    ],
+    "answer": 1,
+    "answer_text": "Industrialized and relatively prosperous",
+    "explanation": "The North is described as industrialized and relatively prosperous, in contrast with the mainly nonindustrial and poorer South.",
+    "syllabus_page": 127,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-003",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "Economics is described as dealing broadly with production or use of resources, distribution of wealth, and:",
+    "options": [
+      "Church sacraments",
+      "Liturgical seasons",
+      "Economic theories or ideologies",
+      "Biblical languages"
+    ],
+    "answer": 2,
+    "answer_text": "Economic theories or ideologies",
+    "explanation": "Economics is presented through three broad areas: management of natural resources, distribution of wealth, and economic theories or ideologies.",
+    "syllabus_page": 128,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-004",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "The system of exchange in which goods or services are passed as gifts without explicit contracting for payment is called:",
+    "options": [
+      "Capitalism",
+      "Industrialization",
+      "Social action",
+      "Reciprocity"
+    ],
+    "answer": 3,
+    "answer_text": "Reciprocity",
+    "explanation": "Reciprocity is gift-based exchange without bargaining for a specific return. Its three basic forms are generalized, balanced and negative reciprocity.",
+    "syllabus_page": 129,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-005",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "What is the main difference between social service and social action in the syllabus?",
+    "options": [
+      "Social service helps immediate needs, while social action addresses conditions causing the problem",
+      "Social action is only prayer, while social service is preaching",
+      "They mean exactly the same thing",
+      "Social service is political while social action is never public"
+    ],
+    "answer": 0,
+    "answer_text": "Social service helps immediate needs, while social action addresses conditions causing the problem",
+    "explanation": "The Good Samaritan example illustrates social service by caring for the injured person. Social action would also seek to make the dangerous road safe by confronting the cause of the problem.",
+    "syllabus_page": 130,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-006",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "The phrase 'Third World' is attributed in the syllabus to:",
+    "options": [
+      "Robert Marett",
+      "Alfred Sauvy",
+      "Abraham Maslow",
+      "Emile Durkheim"
+    ],
+    "answer": 1,
+    "answer_text": "Alfred Sauvy",
+    "explanation": "The phrase is attributed to French analyst Alfred Sauvy, who used 'tiers monde' in 1952.",
+    "syllabus_page": 127,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-007",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "Originally, the phrase 'Third World' referred to countries that were:",
+    "options": [
+      "Already industrialized",
+      "Part of the Soviet bloc only",
+      "Neutral in the Cold War",
+      "Members of NATO only"
+    ],
+    "answer": 2,
+    "answer_text": "Neutral in the Cold War",
+    "explanation": "Sauvy used the expression for neutral countries in the Cold War, with the Western and Soviet blocs understood as the other two 'worlds'.",
+    "syllabus_page": 127,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-008",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "In the North-South economic description used in the syllabus, the 'North' is mainly:",
+    "options": [
+      "Without markets",
+      "Agricultural only",
+      "Nonindustrial and impoverished",
+      "Industrialized and relatively prosperous"
+    ],
+    "answer": 3,
+    "answer_text": "Industrialized and relatively prosperous",
+    "explanation": "The North is described as industrialized and relatively prosperous, while the South is generally less industrialized and poorer.",
+    "syllabus_page": 127,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-009",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "A commodity is defined in the syllabus as:",
+    "options": [
+      "Any good, service or intangible item regarded as useful or valuable in a culture",
+      "Only a manufactured product",
+      "A government tax",
+      "Only food"
+    ],
+    "answer": 0,
+    "answer_text": "Any good, service or intangible item regarded as useful or valuable in a culture",
+    "explanation": "The value of goods and services varies across cultures. Commodities are goods, services or intangible items considered useful or valuable within a culture.",
+    "syllabus_page": 128,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-010",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "The right to use a resource and to deny others the right to use it is described as:",
+    "options": [
+      "Reciprocity",
+      "Ownership",
+      "Social service",
+      "Poverty"
+    ],
+    "answer": 1,
+    "answer_text": "Ownership",
+    "explanation": "Ownership involves recognized user rights and the ability to permit or deny others access to a resource.",
+    "syllabus_page": 128,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-011",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "According to Sahlins as presented in the syllabus, reciprocity has how many basic forms?",
+    "options": [
+      "Five",
+      "Seven",
+      "Three",
+      "Two"
+    ],
+    "answer": 2,
+    "answer_text": "Three",
+    "explanation": "The three forms named are generalized reciprocity, balanced reciprocity and negative reciprocity.",
+    "syllabus_page": 129,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-012",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "A market makes it possible for exchange to take the form mainly of:",
+    "options": [
+      "Only gift giving",
+      "Only taxation",
+      "Only borrowing",
+      "Buying and selling"
+    ],
+    "answer": 3,
+    "answer_text": "Buying and selling",
+    "explanation": "Markets bring sellers and buyers together and allow commodities to be exchanged through buying and selling rather than only through reciprocal gift exchange.",
+    "syllabus_page": 129,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-013",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "The Church's prophetic role in economics includes speaking against:",
+    "options": [
+      "Unfair distribution, oppression and exploitation",
+      "All private ownership",
+      "Every form of profit",
+      "All forms of business"
+    ],
+    "answer": 0,
+    "answer_text": "Unfair distribution, oppression and exploitation",
+    "explanation": "The Church's prophetic role includes challenging exploitation, economic injustice and unfair treatment of the weak and poor.",
+    "syllabus_page": 129,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-014",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "Which of the following is listed by Jesus in Matthew 25 as a form of social service to the needy?",
+    "options": [
+      "Providing care for the sick",
+      "All of the above",
+      "Providing food for the hungry",
+      "Providing clothing for the naked"
+    ],
+    "answer": 1,
+    "answer_text": "All of the above",
+    "explanation": "Christian social service includes food, water, shelter, clothing, health care and care for prisoners.",
+    "syllabus_page": 130,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-015",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "Alfred Sauvy used the expression 'tiers monde', from which 'Third World' developed, in:",
+    "options": [
+      "2001",
+      "1813",
+      "1952",
+      "1789"
+    ],
+    "answer": 2,
+    "answer_text": "1952",
+    "explanation": "Alfred Sauvy used 'tiers monde' in 1952 in the Cold War context, initially referring to neutral countries.",
+    "syllabus_page": 127,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-016",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "Sauvy's use of 'Third World' also alluded to the pre-Revolutionary French:",
+    "options": [
+      "Monarchy",
+      "Clergy only",
+      "Military",
+      "Third Estate or commoners"
+    ],
+    "answer": 3,
+    "answer_text": "Third Estate or commoners",
+    "explanation": "The older word 'tiers' recalled the Third Estate, the underprivileged commoners before the French Revolution.",
+    "syllabus_page": 127,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-017",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "Which organization is described as functioning as the economic voice of the Third World?",
+    "options": [
+      "The Group of 77",
+      "The Holy Club",
+      "The Sanhedrin",
+      "The WMMS"
+    ],
+    "answer": 0,
+    "answer_text": "The Group of 77",
+    "explanation": "The Group of 77 functions as the economic voice of Third World countries, while the Non-Aligned Movement functions mainly as their political caucus.",
+    "syllabus_page": 127,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-018",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "The Non-Aligned Movement is described in the syllabus primarily as the:",
+    "options": [
+      "Economic market of the North",
+      "Political caucus of the Third World",
+      "Missionary arm of the Church",
+      "Agency for liturgical reform"
+    ],
+    "answer": 1,
+    "answer_text": "Political caucus of the Third World",
+    "explanation": "The Non-Aligned Movement serves primarily as the political caucus of the Third World.",
+    "syllabus_page": 127,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-019",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "The three forms of reciprocity named by Sahlins are:",
+    "options": [
+      "Private, public and mixed reciprocity",
+      "Capitalist, socialist and welfare reciprocity",
+      "Generalized, balanced and negative reciprocity",
+      "Local, national and international reciprocity"
+    ],
+    "answer": 2,
+    "answer_text": "Generalized, balanced and negative reciprocity",
+    "explanation": "Sahlins' three forms are generalized reciprocity, balanced reciprocity and negative reciprocity.",
+    "syllabus_page": 129,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-020",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "One major advantage of a market is that it:",
+    "options": [
+      "Eliminates all exchange",
+      "Prevents commodities from being valued",
+      "Allows only gift giving",
+      "Brings many sellers together and gives buyers a choice among them"
+    ],
+    "answer": 3,
+    "answer_text": "Brings many sellers together and gives buyers a choice among them",
+    "explanation": "Markets bring together sellers of different commodities and allow buyers to choose among sellers through buying and selling.",
+    "syllabus_page": 129,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-021",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "According to the syllabus, the Church should NOT itself determine:",
+    "options": [
+      "The exact fair price or fair wage in the market",
+      "Whether exploitation is morally wrong",
+      "Whether economic injustice deserves prophetic criticism",
+      "Whether the weak should be protected"
+    ],
+    "answer": 0,
+    "answer_text": "The exact fair price or fair wage in the market",
+    "explanation": "The Church's role is moral and prophetic rather than technical price-setting. It calls economic actors to fairness, moderate profit and freedom from exploitation.",
+    "syllabus_page": 129,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-022",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "In Matthew 25, care for which group is included among the social services expected of Christians?",
+    "options": [
+      "Only merchants",
+      "Prisoners",
+      "Only rulers",
+      "Only clergy"
+    ],
+    "answer": 1,
+    "answer_text": "Prisoners",
+    "explanation": "The list of social services includes feeding the hungry, giving water, sheltering the homeless, clothing the naked, caring for the sick and caring for prisoners.",
+    "syllabus_page": 130,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-023",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "In the Good Samaritan example, making the dangerous Jericho-Jerusalem road safe would illustrate:",
+    "options": [
+      "Reciprocity",
+      "Private worship",
+      "Social action",
+      "Social service only"
+    ],
+    "answer": 2,
+    "answer_text": "Social action",
+    "explanation": "Helping the wounded traveller is social service. Addressing the unsafe conditions that allow robbery to continue is social action because it tackles the cause of the problem.",
+    "syllabus_page": 130,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-024",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Development",
+    "q": "Nehemiah's confrontation of wealthy Jews who exploited poorer Jews in Nehemiah 5 is used as an example of:",
+    "options": [
+      "Private charity only",
+      "Market reciprocity",
+      "Liturgical ceremony",
+      "Social action"
+    ],
+    "answer": 3,
+    "answer_text": "Social action",
+    "explanation": "Nehemiah spoke for the poor and challenged unjust lending and exploitation. This is a biblical example of social action.",
+    "syllabus_page": 130,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-06-025",
+    "variant": "Unique",
+    "main_topic": "Development"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "According to the syllabus' use of Maslow's hierarchy, which needs are the basic necessities of life?",
+    "options": [
+      "Social needs",
+      "Self-actualization needs",
+      "Esteem needs",
+      "Physiological needs"
+    ],
+    "answer": 3,
+    "answer_text": "Physiological needs",
+    "explanation": "Physiological needs include food, water, clothing, shelter and health. Failure to secure these basic necessities is treated as a key sign of poverty.",
+    "syllabus_page": 131,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-001",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "Which is the highest level in Maslow's hierarchy as presented in the syllabus?",
+    "options": [
+      "Self-actualization",
+      "Social needs",
+      "Safety and security",
+      "Esteem"
+    ],
+    "answer": 0,
+    "answer_text": "Self-actualization",
+    "explanation": "Self-actualization is the highest level, where people seek to fulfill and develop their God-given potential rather than merely secure money, status or social belonging.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-002",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "Paul's teaching in 1 Thessalonians 4:11-12 encourages Christians to:",
+    "options": [
+      "Reject all material provision",
+      "Work with their hands and avoid unnecessary dependence",
+      "Avoid work and wait for help",
+      "Seek prestige before basic needs"
+    ],
+    "answer": 1,
+    "answer_text": "Work with their hands and avoid unnecessary dependence",
+    "explanation": "Paul's teaching emphasizes productive work, provision for daily necessities and responsible living rather than needless dependence.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-003",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "Agur's prayer discussed in the syllabus is found in:",
+    "options": [
+      "Romans 12:1-2",
+      "Psalm 23",
+      "Proverbs 30:7-9",
+      "Matthew 6:9-13"
+    ],
+    "answer": 2,
+    "answer_text": "Proverbs 30:7-9",
+    "explanation": "Proverbs 30:7-9 highlights the undesirability and spiritual dangers of poverty.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-004",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "According to the syllabus, Jesus' statement 'The poor you will always have with you' should NOT be understood as:",
+    "options": [
+      "A call to remain open-handed to the poor",
+      "A statement made in a particular context",
+      "A reminder that helping the poor remains possible",
+      "An endorsement of poverty"
+    ],
+    "answer": 3,
+    "answer_text": "An endorsement of poverty",
+    "explanation": "Jesus' statement is not an endorsement of poverty. The statement is read alongside Deuteronomy 15:11 and the continuing responsibility to care for the poor.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-005",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "Which role does the syllabus assign to the Church in poverty reduction?",
+    "options": [
+      "Providing help, teaching attitudinal change, and advocating for good policies",
+      "Avoiding economic matters",
+      "Leaving poverty entirely to government",
+      "Only giving occasional hand-outs"
+    ],
+    "answer": 0,
+    "answer_text": "Providing help, teaching attitudinal change, and advocating for good policies",
+    "explanation": "The Church is urged not only to assist the poor directly but also to teach, advocate for sound policies, and encourage attitudes and actions that help people move out of poverty.",
+    "syllabus_page": 133,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-006",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "PAMSCAD is expanded in the syllabus as:",
+    "options": [
+      "Programme for Agricultural Management and Social Community Development",
+      "Programme of Action for the Mitigation of the Social Cost of Adjustment",
+      "Programme for African Mission and Social Christian Development",
+      "Public Action Movement for Social Care and Development"
+    ],
+    "answer": 1,
+    "answer_text": "Programme of Action for the Mitigation of the Social Cost of Adjustment",
+    "explanation": "PAMSCAD means Programme of Action for the Mitigation of the Social Cost of Adjustment.",
+    "syllabus_page": 131,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-007",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "According to the wording used in the syllabus, LEAP stands for:",
+    "options": [
+      "Life Education and Assistance Project",
+      "Local Economic Assistance Programme",
+      "Life Enhancement and Amelioration Programme",
+      "Livelihood Empowerment Against Poverty"
+    ],
+    "answer": 2,
+    "answer_text": "Life Enhancement and Amelioration Programme",
+    "explanation": "LEAP is given as 'Life Enhancement and Amelioration Programme'. This question preserves the wording of the source material.",
+    "syllabus_page": 131,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-008",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "In Maslow's hierarchy, safety and security needs are concerned mainly with:",
+    "options": [
+      "Prestige and recognition",
+      "Creative fulfillment",
+      "Friendship alone",
+      "Assuring basic necessities for the future"
+    ],
+    "answer": 3,
+    "answer_text": "Assuring basic necessities for the future",
+    "explanation": "Safety and security involve whether basic needs can continue to be met, for example through regular employment, income, job security and retirement provision.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-009",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "Maslow's 'social needs' include:",
+    "options": [
+      "Friendship, belonging and interaction with others",
+      "Creative potential only",
+      "Food and water",
+      "Prestige only"
+    ],
+    "answer": 0,
+    "answer_text": "Friendship, belonging and interaction with others",
+    "explanation": "Once physiological and safety needs are substantially met, social needs such as friendship, belonging and participation become prominent.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-010",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "Ego, status and esteem needs include the desire for:",
+    "options": [
+      "Only religious worship",
+      "Recognition, achievement and appreciation",
+      "Only job security",
+      "Food and shelter"
+    ],
+    "answer": 1,
+    "answer_text": "Recognition, achievement and appreciation",
+    "explanation": "Esteem needs include achievement, confidence, independence, prestige, status, recognition, attention and appreciation.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-011",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "According to the syllabus, to live with dignity at least which levels of Maslow's hierarchy should be satisfied?",
+    "options": [
+      "All five levels without exception",
+      "Only the first level",
+      "The first three levels",
+      "Only self-actualization"
+    ],
+    "answer": 2,
+    "answer_text": "The first three levels",
+    "explanation": "Not everyone reaches self-actualization, but at least the first three levels are needed for a life of dignity.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-012",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "Titus 3:14 is used in the syllabus to encourage Christians to:",
+    "options": [
+      "Withdraw from society",
+      "Reject work",
+      "Depend entirely on others",
+      "Provide for daily necessities and avoid unproductive lives"
+    ],
+    "answer": 3,
+    "answer_text": "Provide for daily necessities and avoid unproductive lives",
+    "explanation": "Paul's teaching is used to connect good and productive activity with meeting daily necessities and avoiding unproductive living.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-013",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "Paul's example in 2 Thessalonians 3:7-8 emphasizes that he:",
+    "options": [
+      "Worked night and day so as not to be a burden",
+      "Refused all manual labour",
+      "Taught that poverty was ideal",
+      "Depended on others for food"
+    ],
+    "answer": 0,
+    "answer_text": "Worked night and day so as not to be a burden",
+    "explanation": "Paul's own labour models responsible Christian life and a refusal to become an unnecessary burden on others.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-014",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "Instead of emphasizing a 'Prosperity Gospel', the syllabus calls for the Church to practise a:",
+    "options": [
+      "Monastic Gospel",
+      "Poverty-Alleviation Gospel",
+      "Ritual Gospel",
+      "Political Gospel"
+    ],
+    "answer": 1,
+    "answer_text": "Poverty-Alleviation Gospel",
+    "explanation": "The Church should connect the freedom of Christ with practical teaching, advocacy and action that help people move out of poverty.",
+    "syllabus_page": 133,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-015",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "Which of the following belongs to Maslow's physiological needs in the syllabus?",
+    "options": [
+      "Retirement benefits only",
+      "Prestige and status",
+      "Food, water, clothing, shelter and health",
+      "Creative achievement only"
+    ],
+    "answer": 2,
+    "answer_text": "Food, water, clothing, shelter and health",
+    "explanation": "Physiological needs are the basic necessities of life, including food, water, clothing, shelter and health.",
+    "syllabus_page": 131,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-016",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "Job security and retirement benefits are examples of which level of Maslow's hierarchy?",
+    "options": [
+      "Social needs",
+      "Physiological needs",
+      "Self-actualization",
+      "Safety and security needs"
+    ],
+    "answer": 3,
+    "answer_text": "Safety and security needs",
+    "explanation": "Safety and security needs concern whether basic necessities can continue to be met in the future, including regular income, job security and retirement provision.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-017",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "In the Ghanaian context used in the syllabus, involvement in funerals and other social gatherings illustrates:",
+    "options": [
+      "Social needs",
+      "Economic ideology",
+      "Physiological needs",
+      "Self-actualization"
+    ],
+    "answer": 0,
+    "answer_text": "Social needs",
+    "explanation": "Social needs involve friendship, belonging, interaction and participation in the social life of the community.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-018",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "The desire for prestige, status, recognition and appreciation belongs to:",
+    "options": [
+      "Safety needs",
+      "Ego, status and esteem needs",
+      "Self-actualization only",
+      "Physiological needs"
+    ],
+    "answer": 1,
+    "answer_text": "Ego, status and esteem needs",
+    "explanation": "Maslow's esteem level concerns achievement, confidence, independence, prestige, recognition, attention and appreciation.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-019",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "At the level of self-actualization, people work primarily to:",
+    "options": [
+      "Secure food for the first time",
+      "Obtain basic safety only",
+      "Fulfil and develop their God-given potential",
+      "Gain social acceptance only"
+    ],
+    "answer": 2,
+    "answer_text": "Fulfil and develop their God-given potential",
+    "explanation": "Self-actualization is the highest level in the hierarchy and concerns realizing one's creative and God-given potential.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-020",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "What does the syllabus expect the international community to do in addressing poverty?",
+    "options": [
+      "Replace all national governments",
+      "Provide only temporary gifts",
+      "Leave poverty entirely to churches",
+      "Help implement policies that move people out of poverty rather than merely give hand-outs"
+    ],
+    "answer": 3,
+    "answer_text": "Help implement policies that move people out of poverty rather than merely give hand-outs",
+    "explanation": "Long-term poverty reduction requires support for effective policies and sustainable change rather than dependence on hand-outs alone.",
+    "syllabus_page": 133,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-021",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "In 2 Thessalonians 3:7-8, Paul presents himself as one who:",
+    "options": [
+      "Worked and paid his way so as not to burden others",
+      "Taught that work was unnecessary",
+      "Depended entirely on the church",
+      "Refused all labour"
+    ],
+    "answer": 0,
+    "answer_text": "Worked and paid his way so as not to burden others",
+    "explanation": "Paul says he worked night and day rather than eat another person's food without paying, giving a model of responsible labour.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-022",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "Agur's prayer in Proverbs 30:7-9 treats poverty as dangerous partly because it may:",
+    "options": [
+      "Make work unnecessary",
+      "Lead a child of God into conduct that dishonours God",
+      "Guarantee holiness",
+      "Remove every temptation"
+    ],
+    "answer": 1,
+    "answer_text": "Lead a child of God into conduct that dishonours God",
+    "explanation": "Severe poverty can tempt a person into actions that dishonour God, which is one reason Agur prays for neither poverty nor excessive riches.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-023",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "The statement 'The poor you will always have with you' occurs in the syllabus in the context of:",
+    "options": [
+      "The Good Samaritan",
+      "The feeding of the five thousand",
+      "A woman pouring expensive perfume on Jesus",
+      "The Exodus"
+    ],
+    "answer": 2,
+    "answer_text": "A woman pouring expensive perfume on Jesus",
+    "explanation": "Jesus' statement appears in the context of criticism directed at a woman's costly act of appreciation in anointing him.",
+    "syllabus_page": 132,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-024",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "Poverty",
+    "q": "Deuteronomy 15:11 is used to stress that God's people should be:",
+    "options": [
+      "Opposed to all possessions",
+      "Dependent on the poor",
+      "Indifferent to poverty",
+      "Open-handed toward the poor and needy"
+    ],
+    "answer": 3,
+    "answer_text": "Open-handed toward the poor and needy",
+    "explanation": "The command is to remain open-handed toward brothers, the poor and the needy. It supports continuing responsibility to care for those in need.",
+    "syllabus_page": 133,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-07-025",
+    "variant": "Unique",
+    "main_topic": "Poverty"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "The syllabus defines work as:",
+    "options": [
+      "Only church activity",
+      "Only paid manual labour",
+      "Any activity done without planning",
+      "Any physical or mental activity directed toward accomplishing a task, including labour by which people earn a livelihood"
+    ],
+    "answer": 3,
+    "answer_text": "Any physical or mental activity directed toward accomplishing a task, including labour by which people earn a livelihood",
+    "explanation": "Work includes physical and mental activity directed toward a task and the labour through which people earn their livelihood.",
+    "syllabus_page": 133,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-001",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "According to Genesis 2:15 as used in the syllabus, one of humanity's primary tasks in Eden was to:",
+    "options": [
+      "Work the ground",
+      "Establish a monarchy",
+      "Build a city",
+      "Avoid the ground"
+    ],
+    "answer": 0,
+    "answer_text": "Work the ground",
+    "explanation": "Work is part of God's intention for humanity, reflected in the command to work the ground in Eden.",
+    "syllabus_page": 133,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-002",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "What problem arose among some Christians in the Thessalonian church?",
+    "options": [
+      "They refused to pray",
+      "They stopped working because they expected Christ's return immediately",
+      "They rejected Paul's letters",
+      "They worked too much"
+    ],
+    "answer": 1,
+    "answer_text": "They stopped working because they expected Christ's return immediately",
+    "explanation": "Some Thessalonian believers treated Christ's expected return as a reason to abandon responsibilities. Paul called them back to responsible and productive work.",
+    "syllabus_page": 134,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-003",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "Paul's statement 'If anyone will not work, he shall not eat' is discussed in connection with:",
+    "options": [
+      "Missionary expansion",
+      "The sacraments",
+      "Laziness and idleness",
+      "Liturgical silence"
+    ],
+    "answer": 2,
+    "answer_text": "Laziness and idleness",
+    "explanation": "The statement addresses believers who refused productive work and became burdens on others while waiting for Christ's return.",
+    "syllabus_page": 134,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-004",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "According to the syllabus, spirituality should be understood mainly in terms of:",
+    "options": [
+      "Religious activities alone",
+      "Avoiding secular work",
+      "Spending the whole day at prayer centres",
+      "Conduct, character, and the indwelling power of the Holy Spirit, not religious activity alone"
+    ],
+    "answer": 3,
+    "answer_text": "Conduct, character, and the indwelling power of the Holy Spirit, not religious activity alone",
+    "explanation": "Spirituality is more than attending services, praying and studying the Bible. It includes conduct and character shaped by the Holy Spirit.",
+    "syllabus_page": 137,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-005",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "What lesson does Proverbs 6:6-11 draw from the ant?",
+    "options": [
+      "Practice diligence, initiative and preparation",
+      "Depend on constant supervision",
+      "Avoid future planning",
+      "Work only when commanded"
+    ],
+    "answer": 0,
+    "answer_text": "Practice diligence, initiative and preparation",
+    "explanation": "The ant is presented as self-disciplined and industrious, working without a taskmaster and preparing for future need. The passage contrasts diligence with the sluggard's procrastination and poverty.",
+    "syllabus_page": 137,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-006",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "According to the syllabus, work was originally ordained by God as:",
+    "options": [
+      "A punishment only",
+      "A blessing",
+      "A temporary human invention",
+      "A sign of unbelief"
+    ],
+    "answer": 1,
+    "answer_text": "A blessing",
+    "explanation": "Human beings were intended to work. Work itself is a blessing, while painful toil connected with the cursed ground is linked to the Fall.",
+    "syllabus_page": 133,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-007",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "Exodus 20:9-10 is used to support the pattern of:",
+    "options": [
+      "One day of work and six days of rest",
+      "Only religious labour",
+      "Six days of work and one day of rest",
+      "No regular work"
+    ],
+    "answer": 2,
+    "answer_text": "Six days of work and one day of rest",
+    "explanation": "The six-and-one rhythm shows that both work and rest belong within a responsible biblical pattern.",
+    "syllabus_page": 134,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-008",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "The Book of Proverbs generally:",
+    "options": [
+      "Teaches dependence on others",
+      "Discourages planning",
+      "Condemns all wealth",
+      "Praises hard work and condemns laziness"
+    ],
+    "answer": 3,
+    "answer_text": "Praises hard work and condemns laziness",
+    "explanation": "Proverbs contrasts diligence and productive labour with laziness, procrastination and the poverty that often follows them.",
+    "syllabus_page": 134,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-009",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "The idleness of some Thessalonian Christians led them to become:",
+    "options": [
+      "A burden to the church and meddlers in other people's affairs",
+      "More productive citizens",
+      "Independent workers",
+      "Full-time missionaries"
+    ],
+    "answer": 0,
+    "answer_text": "A burden to the church and meddlers in other people's affairs",
+    "explanation": "Their inactivity made them dependent on the church, wasted useful time and led them into meddling in other people's affairs.",
+    "syllabus_page": 134,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-010",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "The syllabus notes that some Greeks regarded ordinary physical labour as:",
+    "options": [
+      "The highest form of philosophy",
+      "Degrading work suitable for slaves",
+      "A requirement for citizenship",
+      "A sacrament"
+    ],
+    "answer": 1,
+    "answer_text": "Degrading work suitable for slaves",
+    "explanation": "This cultural attitude formed part of the background to Paul's insistence that Christians should work with their own hands and live responsibly.",
+    "syllabus_page": 135,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-011",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "A wrong interpretation of Proverbs 10:22 led some Christians to think that:",
+    "options": [
+      "Work should be done diligently",
+      "Christians should avoid laziness",
+      "Planning and hard work were unnecessary",
+      "God's blessing should guide work"
+    ],
+    "answer": 2,
+    "answer_text": "Planning and hard work were unnecessary",
+    "explanation": "Interpretations that turn God's blessing into an excuse for inactivity and neglect of productive work are mistaken.",
+    "syllabus_page": 135,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-012",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "The syllabus presents industry and skill in relation to God's blessing as:",
+    "options": [
+      "A replacement for God",
+      "Sinful human effort",
+      "Completely useless",
+      "Means through which work may be fruitful"
+    ],
+    "answer": 3,
+    "answer_text": "Means through which work may be fruitful",
+    "explanation": "The point is not that work has no value, but that work and skill should operate under God's blessing and direction rather than being treated as independent of God.",
+    "syllabus_page": 136,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-013",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "Spirituality is described in the syllabus as more than:",
+    "options": [
+      "Attending services, praying and studying the Bible",
+      "The work of the Holy Spirit",
+      "Christian character",
+      "Moral conduct"
+    ],
+    "answer": 0,
+    "answer_text": "Attending services, praying and studying the Bible",
+    "explanation": "Religious activities matter, but spirituality is also about character and conduct shaped by the indwelling Holy Spirit.",
+    "syllabus_page": 137,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-014",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "Which of the following is listed as a manifestation of laziness?",
+    "options": [
+      "Lack of initiative",
+      "All of the above",
+      "Lack of discipline",
+      "Procrastination"
+    ],
+    "answer": 1,
+    "answer_text": "All of the above",
+    "explanation": "Laziness appears in habits such as lack of initiative, procrastination, passivity and lack of discipline.",
+    "syllabus_page": 138,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-015",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "Before the Fall, work is presented in the syllabus as:",
+    "options": [
+      "Something meant only for servants",
+      "A sign of unbelief",
+      "Part of God's intention and a blessing",
+      "A punishment for sin"
+    ],
+    "answer": 2,
+    "answer_text": "Part of God's intention and a blessing",
+    "explanation": "Human beings were created to work. The painful toil associated with the cursed ground follows the Fall, but work itself is part of God's original intention.",
+    "syllabus_page": 133,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-016",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "Which biblical command supports the rhythm of six days of work and one day of rest?",
+    "options": [
+      "Acts 2:42",
+      "Romans 4:11",
+      "Mark 14:7",
+      "Exodus 20:9-10"
+    ],
+    "answer": 3,
+    "answer_text": "Exodus 20:9-10",
+    "explanation": "Exodus 20:9-10 is used to show that regular work and regular rest both belong within God's ordering of life.",
+    "syllabus_page": 134,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-017",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "The Book of Proverbs is presented as praising:",
+    "options": [
+      "Hard work while condemning laziness",
+      "Dependence while condemning diligence",
+      "Idleness while condemning planning",
+      "Poverty as an end in itself"
+    ],
+    "answer": 0,
+    "answer_text": "Hard work while condemning laziness",
+    "explanation": "Proverbs repeatedly commends diligence and condemns laziness.",
+    "syllabus_page": 134,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-018",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "Some Thessalonian Christians stopped working because they believed:",
+    "options": [
+      "The Church had forbidden work",
+      "Christ would return immediately",
+      "Paul had told them to retire",
+      "Manual labour was a sacrament"
+    ],
+    "answer": 1,
+    "answer_text": "Christ would return immediately",
+    "explanation": "Their expectation of Christ's immediate return was misused as a reason to abandon ordinary responsibilities and productive work.",
+    "syllabus_page": 134,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-019",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "Paul's instruction to 'mind your own business' was directed against:",
+    "options": [
+      "Planning responsibly",
+      "Quiet living",
+      "Being busybodies in other people's affairs",
+      "Working with one's hands"
+    ],
+    "answer": 2,
+    "answer_text": "Being busybodies in other people's affairs",
+    "explanation": "The idle Thessalonians had begun meddling in other people's affairs. Paul urged quiet, responsible living and attention to one's own duties.",
+    "syllabus_page": 134,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-020",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "The general Greek attitude mentioned in the syllabus tended to regard ordinary physical labour as:",
+    "options": [
+      "The highest philosophical achievement",
+      "A priestly duty",
+      "A form of worship only",
+      "Degrading work for slaves"
+    ],
+    "answer": 3,
+    "answer_text": "Degrading work for slaves",
+    "explanation": "Some Greeks viewed manual work as beneath a free person, but Paul rejected this attitude for Christians.",
+    "syllabus_page": 135,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-021",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "The syllabus states that God does not call His children to poverty, but to:",
+    "options": [
+      "Adequacy",
+      "Dependence",
+      "Withdrawal from work",
+      "Idleness"
+    ],
+    "answer": 0,
+    "answer_text": "Adequacy",
+    "explanation": "Christians are called to responsible work and provision. God gives ability, strength and skills to earn a living, so the emphasis is on adequacy rather than needless dependence.",
+    "syllabus_page": 137,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-022",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "One alternative explanation of Proverbs 10:22 is that 'toil adds nothing to it' when toil is:",
+    "options": [
+      "Used to support a family",
+      "Apart from God",
+      "Joined with wisdom",
+      "Done diligently"
+    ],
+    "answer": 1,
+    "answer_text": "Apart from God",
+    "explanation": "The point is not that work is useless, but that toil detached from God does not create the blessing that ultimately comes from God.",
+    "syllabus_page": 136,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-023",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "The syllabus defines spirituality in part as:",
+    "options": [
+      "Avoidance of all secular work",
+      "Attendance at prayer meetings only",
+      "Sensitivity or commitment to religious values and sacred matters",
+      "Financial prosperity"
+    ],
+    "answer": 2,
+    "answer_text": "Sensitivity or commitment to religious values and sacred matters",
+    "explanation": "Spirituality includes sensitivity and commitment to sacred values, but it is also reflected in conduct and character, not religious activities alone.",
+    "syllabus_page": 137,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-024",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Work Ethics",
+    "q": "In John C. Maxwell's ANTS acronym, the letter 'A' stands for:",
+    "options": [
+      "Ability of Insight",
+      "Awareness of Integrity",
+      "Action of Industry",
+      "Attitude of Initiative"
+    ],
+    "answer": 3,
+    "answer_text": "Attitude of Initiative",
+    "explanation": "The ant does not need a commander to make it begin working. Maxwell summarizes this as an 'Attitude of Initiative'.",
+    "syllabus_page": 139,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-08-025",
+    "variant": "Unique",
+    "main_topic": "The Christian and Work Ethics"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Which passage is central to the syllabus discussion of humanity's responsibility to work and care for the environment?",
+    "options": [
+      "Matthew 28:19",
+      "Acts 2:42",
+      "Romans 8:1",
+      "Genesis 2:15"
+    ],
+    "answer": 3,
+    "answer_text": "Genesis 2:15",
+    "explanation": "Genesis 2:15 is used to ground the idea that human beings have a God-given responsibility to work the earth and take care of it.",
+    "syllabus_page": 139,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-001",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Which of the following is listed as an activity that degrades the environment?",
+    "options": [
+      "All of the above",
+      "Fishing with poisonous chemicals",
+      "Indiscriminate felling of trees",
+      "Bush burning"
+    ],
+    "answer": 0,
+    "answer_text": "All of the above",
+    "explanation": "Bush burning, deforestation and poisonous fishing methods are destructive human activities.",
+    "syllabus_page": 140,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-002",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "In the syllabus, human 'ruling' over creation includes:",
+    "options": [
+      "Ignoring environmental laws",
+      "Care, control and supervision of creation",
+      "Leaving all responsibility to government",
+      "Unlimited destruction of natural resources"
+    ],
+    "answer": 1,
+    "answer_text": "Care, control and supervision of creation",
+    "explanation": "Ruling is interpreted as responsible control and supervision. Humans are accountable for maintaining and protecting what God has entrusted to them.",
+    "syllabus_page": 141,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-003",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Which topic is specifically included under the Christian's responsibility for the environment?",
+    "options": [
+      "Water and environmental destruction",
+      "Bush fires",
+      "All of the above",
+      "Agriculture and land degradation"
+    ],
+    "answer": 2,
+    "answer_text": "All of the above",
+    "explanation": "The environment section treats agriculture and land degradation, water and environmental destruction, and bush fires as major areas of Christian responsibility.",
+    "syllabus_page": 141,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-004",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "A bushfire is defined in the syllabus as:",
+    "options": [
+      "Only a fire caused by lightning",
+      "Any fire inside a house",
+      "Any controlled farm fire",
+      "A wildfire occurring in grassland, woodland or forest"
+    ],
+    "answer": 3,
+    "answer_text": "A wildfire occurring in grassland, woodland or forest",
+    "explanation": "A bushfire is a wildfire occurring in grassland, woodland or forest.",
+    "syllabus_page": 146,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-005",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Which of the following is identified as a Christian response to bushfires?",
+    "options": [
+      "Supporting prevention, fire-fighting and responsible stewardship",
+      "Apathy when the bush is burning",
+      "Ignoring government efforts",
+      "Starting fires to clear all vegetation"
+    ],
+    "answer": 0,
+    "answer_text": "Supporting prevention, fire-fighting and responsible stewardship",
+    "explanation": "Environmental stewardship is a Christian responsibility involving prevention, support for fire control, volunteer action and rejection of apathy.",
+    "syllabus_page": 147,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-006",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Genesis 1:26-31 is used in the syllabus to show that humanity was created to:",
+    "options": [
+      "Avoid involvement with nature",
+      "Exercise responsible rule over creation",
+      "Leave the earth unmanaged",
+      "Destroy creation without limit"
+    ],
+    "answer": 1,
+    "answer_text": "Exercise responsible rule over creation",
+    "explanation": "Being made in God's image is linked with responsibility for creation. Human rule is treated as accountable stewardship, not permission for careless destruction.",
+    "syllabus_page": 139,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-007",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Which of the following is listed as a result of environmental degradation?",
+    "options": [
+      "Drying up of water bodies",
+      "Global warming",
+      "All of the above",
+      "Air and noise pollution"
+    ],
+    "answer": 2,
+    "answer_text": "All of the above",
+    "explanation": "Destructive environmental practices contribute to climatic changes, global warming, drying water bodies, pollution and conversion of forests into grasslands.",
+    "syllabus_page": 140,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-008",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Why does the syllabus emphasize a 'culture of maintenance'?",
+    "options": [
+      "Because maintenance replaces work",
+      "Because creation has no future value",
+      "Because only government must maintain resources",
+      "Because possessing something also brings responsibility to care for it"
+    ],
+    "answer": 3,
+    "answer_text": "Because possessing something also brings responsibility to care for it",
+    "explanation": "Working is linked with maintaining what has been entrusted to us. Stewardship involves preserving resources so future generations can also benefit.",
+    "syllabus_page": 141,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-009",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "According to the syllabus, Christians have a particularly strong reason to care for the environment because:",
+    "options": [
+      "They believe in a Creator-God who entrusted creation to humanity",
+      "Environmental issues are only church matters",
+      "The Bible forbids agriculture",
+      "They alone use natural resources"
+    ],
+    "answer": 0,
+    "answer_text": "They believe in a Creator-God who entrusted creation to humanity",
+    "explanation": "The argument is theological: creation belongs to God, and humans are entrusted with responsibility for it. Christian belief therefore strengthens the duty of environmental care.",
+    "syllabus_page": 141,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-010",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Leviticus 25:23 is used to support the idea that:",
+    "options": [
+      "Land has no spiritual significance",
+      "The land belongs ultimately to God and humans are stewards or tenants",
+      "Land may never be farmed",
+      "Only priests may own land"
+    ],
+    "answer": 1,
+    "answer_text": "The land belongs ultimately to God and humans are stewards or tenants",
+    "explanation": "The statement 'the land is mine' emphasizes stewardship and the need to preserve and restore the land's fertility.",
+    "syllabus_page": 143,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-011",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "One cause of flooding in urban centres identified in the syllabus is:",
+    "options": [
+      "Desilting drains",
+      "Planting trees",
+      "Building in waterways",
+      "Harvesting rainwater"
+    ],
+    "answer": 2,
+    "answer_text": "Building in waterways",
+    "explanation": "Buildings in waterways obstruct the natural flow of water and contribute to flooding and destruction.",
+    "syllabus_page": 145,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-012",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Human causes of bushfires are grouped in the syllabus as:",
+    "options": [
+      "Natural, spiritual and ceremonial acts",
+      "Economic, political and religious acts",
+      "Agricultural acts only",
+      "Malicious, careless and accidental acts"
+    ],
+    "answer": 3,
+    "answer_text": "Malicious, careless and accidental acts",
+    "explanation": "Human causes of bushfires include deliberate acts, careless actions and accidents. Lightning is discussed separately as a natural cause.",
+    "syllabus_page": 146,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-013",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Which of the following can be destroyed or harmed by bushfires?",
+    "options": [
+      "All of the above",
+      "Human life",
+      "Wildlife and vegetation",
+      "Homes and public property"
+    ],
+    "answer": 0,
+    "answer_text": "All of the above",
+    "explanation": "Bushfires can damage fauna, flora, habitats, people, homes, bridges, power lines and air quality.",
+    "syllabus_page": 146,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-014",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "The syllabus regards apathy when God's creation is threatened by bushfires as:",
+    "options": [
+      "A responsible response",
+      "Morally unacceptable for Christians",
+      "The duty of government alone",
+      "A private matter only"
+    ],
+    "answer": 1,
+    "answer_text": "Morally unacceptable for Christians",
+    "explanation": "Christians are called to become part of the solution through prevention, stewardship, support for fire control and practical involvement rather than indifference.",
+    "syllabus_page": 147,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-015",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "The syllabus begins its environmental discussion by noting worldwide concern about:",
+    "options": [
+      "Liturgical uniformity",
+      "Church architecture",
+      "Environmental destruction and climate change",
+      "The number of sacraments"
+    ],
+    "answer": 2,
+    "answer_text": "Environmental destruction and climate change",
+    "explanation": "Environmental destruction and climate change are presented as major global concerns, with NGOs and the United Nations calling for responsible action.",
+    "syllabus_page": 139,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-016",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Genesis 1:26 links humanity's creation in God's image with responsibility to:",
+    "options": [
+      "Avoid agriculture",
+      "Abandon the earth",
+      "Destroy other creatures",
+      "Rule over creation"
+    ],
+    "answer": 3,
+    "answer_text": "Rule over creation",
+    "explanation": "Human beings are made in God's image and entrusted with rule over other creatures. This rule means accountable control and stewardship.",
+    "syllabus_page": 139,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-017",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Genesis 2:15 says humanity was placed in the Garden of Eden to:",
+    "options": [
+      "Work it and take care of it",
+      "Leave it untouched",
+      "Use it without limits",
+      "Give it to another nation"
+    ],
+    "answer": 0,
+    "answer_text": "Work it and take care of it",
+    "explanation": "The verse joins work and care, making stewardship of the environment part of humanity's God-given responsibility.",
+    "syllabus_page": 139,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-018",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "The 'culture of maintenance' emphasized in the syllabus means that Christians should:",
+    "options": [
+      "Avoid supervising resource use",
+      "Care for and preserve what they possess or inherit",
+      "Use resources until they are exhausted",
+      "Leave maintenance only to government"
+    ],
+    "answer": 1,
+    "answer_text": "Care for and preserve what they possess or inherit",
+    "explanation": "Possession brings responsibility for maintenance. Caring for the environment preserves God's gift for future generations.",
+    "syllabus_page": 141,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-019",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "The Sabbath principle for agricultural land in Leviticus 25 requires the land to rest in the:",
+    "options": [
+      "Twentieth year",
+      "Tenth year",
+      "Seventh year",
+      "Second year"
+    ],
+    "answer": 2,
+    "answer_text": "Seventh year",
+    "explanation": "Israel was to cultivate the land for six years and allow it a Sabbath rest in the seventh year.",
+    "syllabus_page": 142,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-020",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Leviticus 25:23 is used to teach that the land ultimately belongs to:",
+    "options": [
+      "The king",
+      "The market",
+      "The farmer alone",
+      "God"
+    ],
+    "answer": 3,
+    "answer_text": "God",
+    "explanation": "The statement 'the land is mine' underlines that human beings are tenants or stewards rather than absolute owners of God's earth.",
+    "syllabus_page": 142,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-021",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Which practice contributes to land degradation according to the syllabus?",
+    "options": [
+      "Repeated cultivation of the same crop without rotation",
+      "Responsible grazing",
+      "Protecting forest cover",
+      "Allowing land to recover"
+    ],
+    "answer": 0,
+    "answer_text": "Repeated cultivation of the same crop without rotation",
+    "explanation": "Repeated cultivation, especially without crop rotation or multiple cropping, is listed among practices that reduce soil fertility and degrade land.",
+    "syllabus_page": 143,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-022",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Rainwater carrying fertilizers and pesticides into water bodies can result in:",
+    "options": [
+      "Greater fish populations",
+      "Unsafe drinking water and loss of aquatic life",
+      "Less chemical pollution",
+      "Improved water purity"
+    ],
+    "answer": 1,
+    "answer_text": "Unsafe drinking water and loss of aquatic life",
+    "explanation": "Agricultural chemicals washed into water bodies can contaminate drinking water and contribute to the death or extinction of fish and other aquatic life.",
+    "syllabus_page": 145,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-023",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Which practical measure is recommended to reduce flooding in communities?",
+    "options": [
+      "Block river channels",
+      "Fill gutters with litter",
+      "Provide and maintain adequate drainage systems",
+      "Build in waterways"
+    ],
+    "answer": 2,
+    "answer_text": "Provide and maintain adequate drainage systems",
+    "explanation": "Practical flood prevention includes adequate drainage, keeping gutters clear, obeying building laws and preventing construction in waterways.",
+    "syllabus_page": 145,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-024",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and the Environment",
+    "q": "Harvesting rainwater is recommended because it can:",
+    "options": [
+      "Increase soil erosion",
+      "Block drainage channels",
+      "Cause bushfires",
+      "Reduce flood problems and provide water for dry-season use"
+    ],
+    "answer": 3,
+    "answer_text": "Reduce flood problems and provide water for dry-season use",
+    "explanation": "Rainwater harvesting can reduce damaging runoff while storing water for dry-season and home-gardening use.",
+    "syllabus_page": 145,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-09-025",
+    "variant": "Unique",
+    "main_topic": "The Christian and the Environment"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "The syllabus traces the word 'religion' to Latin roots conveying the idea of:",
+    "options": [
+      "That which separates people",
+      "Economic exchange",
+      "Public entertainment",
+      "That which binds together"
+    ],
+    "answer": 3,
+    "answer_text": "That which binds together",
+    "explanation": "The word religion is traced to Latin roots meaning 'that which binds together'.",
+    "syllabus_page": 148,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-001",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Sir Edward Burnett Tylor's definition of religion emphasized:",
+    "options": [
+      "Animism and belief in supernatural beings",
+      "Political development",
+      "Economic markets",
+      "Liturgical order"
+    ],
+    "answer": 0,
+    "answer_text": "Animism and belief in supernatural beings",
+    "explanation": "Tylor is presented as defining religion especially through animism, belief in supernatural beings such as souls, ghosts, spirits, gods and goddesses.",
+    "syllabus_page": 148,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-002",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Robert Marett used the term 'mana' to refer to:",
+    "options": [
+      "A written creed",
+      "Impersonal spiritual power",
+      "A form of government",
+      "A Christian sacrament"
+    ],
+    "answer": 1,
+    "answer_text": "Impersonal spiritual power",
+    "explanation": "Mana refers to impersonal spiritual power; Marett used the idea to broaden approaches that focused only on personal spiritual beings.",
+    "syllabus_page": 148,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-003",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "In simple language, culture is described in the syllabus as:",
+    "options": [
+      "Only traditional clothing",
+      "Only religious belief",
+      "The way of life passed from one generation to the next",
+      "The laws of government"
+    ],
+    "answer": 2,
+    "answer_text": "The way of life passed from one generation to the next",
+    "explanation": "Culture is the learned system of beliefs, feelings and rules for living around which people organize life. In simple terms, it is a way of life transmitted from generation to generation.",
+    "syllabus_page": 149,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-004",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "What distinguishes a subculture from the dominant culture?",
+    "options": [
+      "A subculture exists outside society",
+      "A subculture has no shared beliefs",
+      "A subculture is always religious",
+      "A subculture belongs to a smaller segment of society with a distinctive identity while still participating in the wider culture"
+    ],
+    "answer": 3,
+    "answer_text": "A subculture belongs to a smaller segment of society with a distinctive identity while still participating in the wider culture",
+    "explanation": "A subculture guides the distinctive identity and customs of a smaller segment of society, while its members also participate in the dominant culture of the larger society.",
+    "syllabus_page": 150,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-005",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "The Aboakyer festival is used in the syllabus as an example of how shared customs can:",
+    "options": [
+      "Help people understand themselves as a community with a unique culture",
+      "Destroy community identity",
+      "Prevent cultural continuity",
+      "Replace language"
+    ],
+    "answer": 0,
+    "answer_text": "Help people understand themselves as a community with a unique culture",
+    "explanation": "Aboakyer illustrates how shared traditions give meaning, continuity and a sense of common identity to a community.",
+    "syllabus_page": 150,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-006",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Which of the following is included among the broad characteristics of religion in the syllabus?",
+    "options": [
+      "Rituals intended to relate to supernatural beings or powers",
+      "All of the above",
+      "Belief in supernatural beings or power",
+      "Symbolic expression of feelings"
+    ],
+    "answer": 1,
+    "answer_text": "All of the above",
+    "explanation": "Religion includes supernatural belief, symbolic expression and ritual practices that give meaning and shape relationships with the supernatural.",
+    "syllabus_page": 148,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-007",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Tylor's theory of animism is presented as helping people explain experiences such as:",
+    "options": [
+      "Only political conflict",
+      "Only language development",
+      "Dreams, sleep and hallucinations",
+      "Only economic exchange"
+    ],
+    "answer": 2,
+    "answer_text": "Dreams, sleep and hallucinations",
+    "explanation": "Tylor's approach linked religion to belief in supernatural beings and used it to explain puzzling experiences such as dreams, sleep, unconsciousness and hallucinations.",
+    "syllabus_page": 148,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-008",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Marett argued that the concept of 'mana' arose primarily from:",
+    "options": [
+      "Political power",
+      "Economic need",
+      "Written law",
+      "Emotion"
+    ],
+    "answer": 3,
+    "answer_text": "Emotion",
+    "explanation": "Marett regarded mana as an ancient and widespread religious idea arising from emotion rather than intellect, contrasting with Tylor's emphasis on intellect.",
+    "syllabus_page": 148,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-009",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "The term 'taboo' is linked in the syllabus with the idea of something that is:",
+    "options": [
+      "Forbidden and sacred",
+      "Temporary and meaningless",
+      "Ordinary and secular",
+      "Commercial and public"
+    ],
+    "answer": 0,
+    "answer_text": "Forbidden and sacred",
+    "explanation": "The word is traced to Polynesian 'tapu' or 'tabu', carrying the senses of both forbidden and sacred, especially in relation to things charged with spiritual power.",
+    "syllabus_page": 149,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-010",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Emile Durkheim emphasized religion as a system of beliefs and practices concerning:",
+    "options": [
+      "Political parties",
+      "Sacred things",
+      "Markets",
+      "Only private opinions"
+    ],
+    "answer": 1,
+    "answer_text": "Sacred things",
+    "explanation": "Durkheim focused on sacred things that evoke awe, respect or reverence and on religion's role in forming and stabilizing community life.",
+    "syllabus_page": 149,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-011",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "A society is described in the syllabus as people connected by:",
+    "options": [
+      "Biology alone",
+      "Geography alone",
+      "Communication, common customs and traditions, and institutions",
+      "Religion alone"
+    ],
+    "answer": 2,
+    "answer_text": "Communication, common customs and traditions, and institutions",
+    "explanation": "A society sees itself as distinct and is connected through communication, shared customs and institutions such as politics, law and economics.",
+    "syllabus_page": 149,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-012",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Shared culture contributes to a society by giving members:",
+    "options": [
+      "Exactly identical knowledge",
+      "No rules for behaviour",
+      "Freedom from tradition",
+      "A sense of common identity"
+    ],
+    "answer": 3,
+    "answer_text": "A sense of common identity",
+    "explanation": "Culture provides shared beliefs, feelings and rules for living that help members understand themselves as a people with a common identity.",
+    "syllabus_page": 149,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-013",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "The syllabus says that culture is:",
+    "options": [
+      "Capable of diversity and change within the same society",
+      "Only inherited biologically",
+      "Identical for every member",
+      "Fixed and unchanging"
+    ],
+    "answer": 0,
+    "answer_text": "Capable of diversity and change within the same society",
+    "explanation": "Culture is learned, shared and transmitted, but it is not fixed. Different groups within one society may possess distinctive cultural knowledge and practices.",
+    "syllabus_page": 150,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-014",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Clothing and language are used in the syllabus to illustrate that culture:",
+    "options": [
+      "Is limited to religion",
+      "Communicates symbolic meaning and identity",
+      "Has no connection with identity",
+      "Cannot change"
+    ],
+    "answer": 1,
+    "answer_text": "Communicates symbolic meaning and identity",
+    "explanation": "Clothing can communicate shared symbolic meanings, while language expresses community identity and helps people understand who they are as a group.",
+    "syllabus_page": 150,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-015",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Religion is described in the syllabus as an organized system of shared:",
+    "options": [
+      "Scientific experiments",
+      "Political laws only",
+      "Supernatural beliefs and rituals",
+      "Economic contracts only"
+    ],
+    "answer": 2,
+    "answer_text": "Supernatural beliefs and rituals",
+    "explanation": "The definition emphasizes shared supernatural beliefs and rituals through which people seek meaning and engage their social and natural environments.",
+    "syllabus_page": 148,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-016",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Sir Edward Burnett Tylor's influential anthropological definition of religion is dated to:",
+    "options": [
+      "1909",
+      "1966",
+      "1912",
+      "1871"
+    ],
+    "answer": 3,
+    "answer_text": "1871",
+    "explanation": "Tylor's 1871 approach makes animism, or belief in supernatural beings, central to religion.",
+    "syllabus_page": 148,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-017",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Robert Marett introduced the term 'mana' into this discussion in:",
+    "options": [
+      "1909",
+      "1871",
+      "1738",
+      "1966"
+    ],
+    "answer": 0,
+    "answer_text": "1909",
+    "explanation": "Marett's 1909 discussion used the Melanesian term 'mana' for impersonal spiritual power.",
+    "syllabus_page": 148,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-018",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Marett regarded 'mana' as arising primarily from:",
+    "options": [
+      "Political authority",
+      "Emotion rather than intellect",
+      "Economic exchange",
+      "Written Scripture"
+    ],
+    "answer": 1,
+    "answer_text": "Emotion rather than intellect",
+    "explanation": "Marett differed from Tylor by emphasizing an emotional source for the idea of impersonal spiritual power.",
+    "syllabus_page": 148,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-019",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Clifford Geertz's influential definition of religion quoted in the syllabus is dated to:",
+    "options": [
+      "1909",
+      "1912/1915",
+      "1966",
+      "1871"
+    ],
+    "answer": 2,
+    "answer_text": "1966",
+    "explanation": "Clifford Geertz's 1966 definition describes religion as a system of symbols that establishes powerful and lasting moods and motivations.",
+    "syllabus_page": 149,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-020",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Emile Durkheim's approach to religion focused especially on:",
+    "options": [
+      "Liturgical vestments",
+      "Markets and commodities",
+      "Missionary societies",
+      "Beliefs and practices concerning sacred things"
+    ],
+    "answer": 3,
+    "answer_text": "Beliefs and practices concerning sacred things",
+    "explanation": "Durkheim emphasized sacred things that inspire awe, respect or reverence and the feelings religion creates within a community.",
+    "syllabus_page": 149,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-021",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Clifford Geertz's definition of religion emphasizes a system of:",
+    "options": [
+      "Symbols that establish powerful and lasting moods and motivations",
+      "Sacramental materials",
+      "Political offices",
+      "Economic exchanges"
+    ],
+    "answer": 0,
+    "answer_text": "Symbols that establish powerful and lasting moods and motivations",
+    "explanation": "Geertz describes religion as a system of symbols that shapes deep and lasting moods and motivations by presenting a meaningful order of existence.",
+    "syllabus_page": 149,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-022",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "According to the syllabus, what gives members of a human society a strong sense of common identity?",
+    "options": [
+      "Their place of residence alone",
+      "Their shared culture",
+      "Their economic class alone",
+      "Their biological similarity alone"
+    ],
+    "answer": 1,
+    "answer_text": "Their shared culture",
+    "explanation": "Shared culture provides learned beliefs, feelings, customs and rules for living that help a society understand itself as a distinct people.",
+    "syllabus_page": 149,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-023",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "The Ghanaian expectation that children should respect elders is used as an example of:",
+    "options": [
+      "An economic system",
+      "A sacrament",
+      "A culturally learned rule for proper behaviour",
+      "A biological instinct"
+    ],
+    "answer": 2,
+    "answer_text": "A culturally learned rule for proper behaviour",
+    "explanation": "The example illustrates how culture teaches common understandings about appropriate behaviour and social expectations.",
+    "syllabus_page": 150,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-024",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  },
+  {
+    "subject": "Church & Society",
+    "section": "The Christian and Culture",
+    "q": "Clothing and language are used in the syllabus to show that culture can:",
+    "options": [
+      "Exist without shared meanings",
+      "Remain completely unchanging",
+      "Remove all social differences",
+      "Communicate symbolic meaning and group identity"
+    ],
+    "answer": 3,
+    "answer_text": "Communicate symbolic meaning and group identity",
+    "explanation": "Clothing can carry symbolic messages, while language expresses the identity and shared meaning of a community.",
+    "syllabus_page": 150,
+    "source_type": "Syllabus-derived unique practice question",
+    "id": "SP-10-025",
+    "variant": "Unique",
+    "main_topic": "The Christian and Culture"
+  }
+]
