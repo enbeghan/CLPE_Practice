@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CLPE Part One • Syllabus Practice</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-89XWKB791B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-89XWKB791B');
+</script>
+
+<link rel="stylesheet" href="style.css?v=20260925-nav2">
+</head>
+<body>
+<div class="wrap">
+  <a class="top-link" href="../">← Back to Part One Past Questions</a>
+  <h1>CLPE Part One • Syllabus Practice</h1>
+  <p class="subtitle">150 likely practice questions constructed from the requested Part One syllabus topics. Choose a subject or a specific topic, answer one question at a time, and read the explanation after selecting an answer.</p>
+
+  <div class="notice"><strong>Note:</strong> These are syllabus-derived practice questions, not historical past-paper questions.</div>
+
+  <div class="card">
+    <div class="filters">
+      <div>
+        <label for="subject">Subject</label>
+        <select id="subject"></select>
+      </div>
+      <div>
+        <label for="topic">Topic</label>
+        <select id="topic"></select>
+      </div>
+      <div>
+        <label for="order">Question order</label>
+        <select id="order">
+          <option value="original">Original order</option>
+          <option value="shuffle">Shuffle</option>
+        </select>
+      </div>
+    </div>
+
+    <div id="badges" class="badges"></div>
+
+    <div class="status-line">
+      <span id="prog">Question 1</span>
+      <span id="score">Score: 0 / 0</span>
+    </div>
+    <div class="progress"><div id="bar" class="bar"></div></div>
+
+    <div class="question-nav-panel">
+      <div class="question-nav-head">
+        <div>
+          <strong>Question navigation</strong>
+          <span id="navSummary" class="nav-summary"></span>
+        </div>
+        <button id="toggleNav" class="nav-toggle" type="button">Hide</button>
+      </div>
+      <div id="navWrap">
+        <div id="questionNav" class="question-nav"></div>
+        <div class="nav-legend">
+          <span><i class="legend"></i>Not answered</span>
+          <span><i class="legend correct"></i>Correct</span>
+          <span><i class="legend wrong"></i>Wrong</span>
+          <span><i class="legend current"></i>Current</span>
+        </div>
+        <p class="nav-help">Red = answered wrongly. Gray = answered correctly. Click any question number to return to it. To answer an already answered question again, select it and use <strong>Reset question</strong>.</p>
+      </div>
+    </div>
+
+    <div id="quiz">
+      <div id="meta" class="meta"></div>
+      <p id="question" class="question"></p>
+      <div id="answers" class="answers"></div>
+      <div id="feedback" class="feedback" hidden></div>
+
+      <div class="actions">
+        <button id="prev" type="button">Previous</button>
+        <button id="next" class="primary" type="button">Next</button>
+        <button id="reset" type="button">Reset question</button>
+      </div>
+    </div>
+
+    <div id="finish" class="finish" hidden>
+      <h2>Finished</h2>
+      <p id="final"></p>
+    </div>
+  </div>
+</div>
+
+<script src="script.js?v=20260925-nav2"></script>
+</body>
+</html>

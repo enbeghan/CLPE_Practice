@@ -1,20 +1,42 @@
-# CLPE Part One Syllabus Practice page
+# CLPE Part One Syllabus Practice
 
-Upload `syllabus-practice.html` to the root of the same GitHub Pages repository that contains your existing `index.html`.
+Upload this entire `syllabus-practice` folder into the root of your existing Part One GitHub Pages repository.
 
-It will then be available at:
+Recommended repository structure:
 
-`https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/syllabus-practice.html`
+```
+CLPE/
+├── index.html
+├── style.css
+├── script.js
+└── syllabus-practice/
+    ├── index.html
+    ├── style.css
+    └── script.js
+```
 
-The page is self-contained. It includes:
-- all 150 syllabus-derived practice questions,
-- 15 questions per requested topic,
-- subject and topic filters,
-- Moodle-style question navigation,
-- original-order and shuffle modes,
-- scoring,
-- Reset question,
-- answer explanations after selection,
-- Google Analytics using the existing Part One measurement ID.
+The syllabus practice page will then be available at:
 
-The page links back to `index.html` for the existing Part One past-question quiz.
+`https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/syllabus-practice/`
+
+## Features
+
+- 150 syllabus-derived questions, 15 per requested topic
+- Subject filter
+- Topic filter
+- Original order or shuffle
+- One question at a time
+- Previous and Next
+- Score tracking
+- Moodle-style numbered question navigation
+- Wrong navigation state = red
+- Correct navigation state = gray
+- Current question = accent/blue
+- Click any question number to revisit it
+- Reset question resets only the current question
+- After reset, that question can be answered again
+- Other question answers and scores are preserved
+- Teaching explanation after answering
+- Part One syllabus page reference
+- Google Analytics using the existing measurement ID
+- No separate Try again button
