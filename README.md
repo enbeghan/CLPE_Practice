@@ -1,8 +1,23 @@
 # CLPE Part One Syllabus Practice
 
-Upload this entire `syllabus-practice` folder into the root of your existing Part One GitHub Pages repository.
+This GitHub Pages package contains **1,000 syllabus-derived practice questions**.
 
-Recommended repository structure:
+There are **100 questions in each of the 10 main topics**:
+
+- Liturgics — Introduction to Liturgics: 100
+- Liturgics — Worship: 100
+- Liturgics — Sacraments: 100
+- Methodist Studies — Beginnings of Methodism: 100
+- Methodist Studies — Methodism in Ghana: 100
+- Church & Society — Development: 100
+- Church & Society — Poverty: 100
+- Church & Society — The Christian and Work Ethics: 100
+- Church & Society — The Christian and the Environment: 100
+- Church & Society — The Christian and Culture: 100
+
+## GitHub Pages structure
+
+Upload the entire `syllabus-practice` folder into the root of the existing Part One repository:
 
 ```
 CLPE/
@@ -12,31 +27,35 @@ CLPE/
 └── syllabus-practice/
     ├── index.html
     ├── style.css
-    └── script.js
+    ├── script.js
+    └── question-bank-1000.json
 ```
 
-The syllabus practice page will then be available at:
+The practice page will then be available at:
 
 `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/syllabus-practice/`
 
-## Features
+## Features preserved
 
-- 150 syllabus-derived questions, 15 per requested topic
+- 1,000 questions total
+- 100 questions per main topic
 - Subject filter
 - Topic filter
 - Original order or shuffle
 - One question at a time
-- Previous and Next
+- Previous and Next controls
 - Score tracking
-- Moodle-style numbered question navigation
-- Wrong navigation state = red
-- Correct navigation state = gray
+- Moodle-style numbered navigation
+- Wrong answer navigation = red
+- Correct answer navigation = gray
 - Current question = accent/blue
 - Click any question number to revisit it
 - Reset question resets only the current question
-- After reset, that question can be answered again
-- Other question answers and scores are preserved
+- A reset question can be answered again
+- Other question answers and scores remain intact
 - Teaching explanation after answering
-- Part One syllabus page reference
-- Google Analytics using the existing measurement ID
+- Part One course-page reference
+- Google Analytics using the existing Part One measurement ID
 - No separate Try again button
+
+The questions are syllabus-derived practice questions. They are not presented as historical past-paper questions.
